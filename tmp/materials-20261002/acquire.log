@@ -1,0 +1,45 @@
+{"source_id": "AI022", "slug": "deepseek-hardware", "status": "archived", "files": 2, "errors": []}
+{"source_id": "AI023", "slug": "flashattention", "status": "archived", "files": 2, "errors": []}
+{"source_id": "AI024", "slug": "pagedattention", "status": "archived", "files": 2, "errors": []}
+{"source_id": "AI025", "slug": "zero", "status": "archived", "files": 2, "errors": []}
+{"source_id": "AI026", "slug": "megatron-lm", "status": "archived", "files": 2, "errors": []}
+{"source_id": "AI027", "slug": "dpo", "status": "archived", "files": 2, "errors": []}
+{"source_id": "AI028", "slug": "deepseek-math", "status": "archived", "files": 2, "errors": []}{"source_id": "AI029", "slug": "speculative-decoding", "status": "archived", "files": 2, "errors": []}
+
+{"source_id": "AI018", "slug": "llama3", "status": "archived", "files": 2, "errors": []}
+{"source_id": "AI030", "slug": "sglang", "status": "archived", "files": 2, "errors": []}
+{"source_id": "AI031", "slug": "mlir", "status": "archived", "files": 2, "errors": []}
+{"source_id": "AI033", "slug": "rlhf", "status": "archived", "files": 2, "errors": []}
+{"source_id": "AI032", "slug": "vllm-architecture", "status": "archived", "files": 1, "errors": []}
+{"source_id": "AI034", "slug": "tensorrt-llm", "status": "archived", "files": 1, "errors": []}
+{"source_id": "AI035", "slug": "blackwell", "status": "archived", "files": 1, "errors": []}
+{"source_id": "AI037", "slug": "tpu-v4", "status": "archived", "files": 2, "errors": []}
+{"source_id": "AI039", "slug": "nccl", "status": "archived", "files": 1, "errors": []}
+{"source_id": "AI038", "slug": "tpu-first", "status": "archived", "files": 2, "errors": []}
+{"source_id": "AI040", "slug": "mlperf-inference", "status": "archived", "files": 2, "errors": []}
+{"source_id": "AI042", "slug": "hexagon-2026", "status": "failed", "files": 1, "errors": [{"error": "response is a challenge or insufficient readable content"}]}
+{"source_id": "AI043", "slug": "mobilellm", "status": "archived", "files": 2, "errors": []}
+{"source_id": "AI044", "slug": "mcunet", "status": "archived", "files": 2, "errors": []}
+{"source_id": "AI045", "slug": "onnx-qnn", "status": "archived", "files": 1, "errors": []}
+{"source_id": "AI046", "slug": "executorch", "status": "archived", "files": 1, "errors": []}
+{"source_id": "AI041", "slug": "qualcomm-npu", "status": "archived", "files": 1, "errors": []}
+{"source_id": "AI049", "slug": "rag", "status": "archived", "files": 2, "errors": []}
+{"source_id": "AI050", "slug": "react", "status": "archived", "files": 2, "errors": []}
+{"source_id": "AI036", "slug": "cdna4", "status": "archived", "files": 1, "errors": []}
+{"source_id": "AI051", "slug": "toolformer", "status": "archived", "files": 2, "errors": []}
+{"source_id": "AI052", "slug": "vit", "status": "archived", "files": 2, "errors": []}
+{"source_id": "AI054", "slug": "whisper", "status": "archived", "files": 2, "errors": []}
+{"source_id": "AI047", "slug": "mlx", "status": "failed", "files": 2, "errors": [{"url": "README.md", "error": "curl: (28) Connection timed out after 12006 milliseconds"}, {"error": ""}]}
+{"source_id": "AI053", "slug": "clip", "status": "archived", "files": 2, "errors": []}
+{"source_id": "AI055", "slug": "dlrm", "status": "archived", "files": 2, "errors": []}
+{"source_id": "AI056", "slug": "rt2", "status": "archived", "files": 2, "errors": []}
+{"source_id": "AI057", "slug": "qwen3-tts", "status": "archived", "files": 2, "errors": []}
+{"source_id": "AI059", "slug": "illustrated-gpt2", "status": "archived", "files": 1, "errors": []}
+{"source_id": "AI058", "slug": "illustrated-transformer", "status": "archived", "files": 1, "errors": []}
+{"source_id": "AI060", "slug": "lilian-agents", "status": "archived", "files": 1, "errors": []}
+{"source_id": "AI062", "slug": "raschka-comparison", "status": "archived", "files": 1, "errors": []}
+{"source_id": "AI061", "slug": "lilian-diffusion", "status": "archived", "files": 1, "errors": []}
+{"source_id": "AI064", "slug": "su-rope", "status": "failed", "files": 0, "errors": [{"error": "curl: (22) The requested URL returned error: 403"}]}
+{"source_id": "AI063", "slug": "go-brrr", "status": "archived", "files": 1, "errors": []}
+{"source_id": "AI048", "slug": "llama-cpp", "status": "archived_with_gaps", "files": 3, "errors": [{"url": "src/llama-model.cpp", "error": "curl: (28) Operation timed out after 45015 milliseconds with 8268 out of 162677 bytes received"}]}
+COMPLETED {"archived": 58, "archived_with_gaps": 1, "failed": 3}

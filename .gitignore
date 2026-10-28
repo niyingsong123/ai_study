@@ -1,13 +1,26 @@
-# Downloaded originals stay local; publish only the archive guide.
-/original_file/*
-!/original_file/README.md
+# Reading copies generated from archived HTML and image files.
+/original_file/blogs/*.reader.html
 
-# Temporary extraction, previews, downloads, and Python caches.
-/tmp/
+# Text extraction and PDF previews generated from archived sources.
+/tmp/materials-*/AI*.txt
+/tmp/materials-*/previews/
+/tmp/materials-*/pdf-preview-checks.json
+
+# Verified duplicate responses; canonical originals are in original_file/wechat/.
+/tmp/materials-20261002/AI001-wechat-response.html
+/tmp/materials-20261002/AI002-wechat-response.html
+
+# Copies made before GitHub-sync edits; current files remain tracked.
+/tmp/github-sync-*/*.before.json
+
+# Python bytecode generated from source files.
 __pycache__/
 *.py[cod]
+
+# Keep machine-specific environments and incomplete downloads out of Git.
 .venv/
 venv/
+/tmp/materials-*/download-diagnostics/**/*.part
 
 # Local credentials and operating-system state.
 .env

@@ -1,0 +1,1 @@
+{"source_id": "AI065", "slug": "qwen3-implementation", "status": "archived_with_gaps", "files": 2, "errors": [{"url": "src/transformers/models/qwen3/configuration_qwen3.py", "error": "curl: (28) Operation timed out after 45001 milliseconds with 8268 out of 11786 bytes received"}]}

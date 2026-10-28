@@ -1,0 +1,3 @@
+# Preserve archived originals and acquisition records byte for byte.
+/original_file/** -text
+/tmp/** -text
