@@ -1,0 +1,7350 @@
+{
+  "batch": "AI-MATERIALS-20261002",
+  "scope": "Archive integrity, local navigation, image parsing, source/reader table text and merge markup; no full HTML visual audit.",
+  "files": [
+    {
+      "path": "original_file/wechat/AI001-article.html",
+      "sha256_matches": true,
+      "bytes": 3699239
+    },
+    {
+      "path": "original_file/blogs/assets/AI001/cbdade00d50f392e67.img",
+      "sha256_matches": true,
+      "bytes": 280494
+    },
+    {
+      "path": "original_file/blogs/assets/AI001/948841592ddd0e10bc.img",
+      "sha256_matches": true,
+      "bytes": 395808
+    },
+    {
+      "path": "original_file/blogs/assets/AI001/dcaac3480c6bbecb3d.img",
+      "sha256_matches": true,
+      "bytes": 508683
+    },
+    {
+      "path": "original_file/blogs/assets/AI001/3417c9e5c7eed5f5fd.img",
+      "sha256_matches": true,
+      "bytes": 276638
+    },
+    {
+      "path": "original_file/blogs/assets/AI001/998ec24b24322e18b8.img",
+      "sha256_matches": true,
+      "bytes": 514185
+    },
+    {
+      "path": "original_file/blogs/assets/AI001/56a98c390aab23514d.img",
+      "sha256_matches": true,
+      "bytes": 261106
+    },
+    {
+      "path": "original_file/blogs/assets/AI001/4cdc008db2735ca672.img",
+      "sha256_matches": true,
+      "bytes": 395550
+    },
+    {
+      "path": "original_file/blogs/assets/AI001/a36a4fbff152776533.img",
+      "sha256_matches": true,
+      "bytes": 527485
+    },
+    {
+      "path": "original_file/blogs/AI001-wechat-prefill-decode.reader.html",
+      "sha256_matches": true,
+      "bytes": 102031
+    },
+    {
+      "path": "original_file/wechat/AI002-article.html",
+      "sha256_matches": true,
+      "bytes": 3672601
+    },
+    {
+      "path": "original_file/blogs/assets/AI002/eaf2ee557537975d39.img",
+      "sha256_matches": true,
+      "bytes": 447286
+    },
+    {
+      "path": "original_file/blogs/assets/AI002/f0f6499d3bb2a57b0b.img",
+      "sha256_matches": true,
+      "bytes": 379592
+    },
+    {
+      "path": "original_file/blogs/assets/AI002/78c9ba0664d4ffdd74.img",
+      "sha256_matches": true,
+      "bytes": 323924
+    },
+    {
+      "path": "original_file/blogs/assets/AI002/5345d4963cdaae6f71.img",
+      "sha256_matches": true,
+      "bytes": 372007
+    },
+    {
+      "path": "original_file/blogs/assets/AI002/4449c1885cbe8431b6.img",
+      "sha256_matches": true,
+      "bytes": 392165
+    },
+    {
+      "path": "original_file/blogs/assets/AI002/6d0970e00dac38a710.img",
+      "sha256_matches": true,
+      "bytes": 352652
+    },
+    {
+      "path": "original_file/blogs/AI002-wechat-kv-cache.reader.html",
+      "sha256_matches": true,
+      "bytes": 97048
+    },
+    {
+      "path": "original_file/papers/AI003-attention-is-all-you-need.metadata.html",
+      "sha256_matches": true,
+      "bytes": 43644
+    },
+    {
+      "path": "original_file/papers/AI003-attention-is-all-you-need.pdf",
+      "sha256_matches": true,
+      "bytes": 2215244
+    },
+    {
+      "path": "original_file/papers/AI004-resnet.metadata.html",
+      "sha256_matches": true,
+      "bytes": 42377
+    },
+    {
+      "path": "original_file/papers/AI004-resnet.pdf",
+      "sha256_matches": true,
+      "bytes": 819383
+    },
+    {
+      "path": "original_file/papers/AI005-adam.metadata.html",
+      "sha256_matches": true,
+      "bytes": 43245
+    },
+    {
+      "path": "original_file/papers/AI005-adam.pdf",
+      "sha256_matches": true,
+      "bytes": 584641
+    },
+    {
+      "path": "original_file/papers/AI006-ddpm.metadata.html",
+      "sha256_matches": true,
+      "bytes": 41757
+    },
+    {
+      "path": "original_file/papers/AI006-ddpm.pdf",
+      "sha256_matches": true,
+      "bytes": 10267274
+    },
+    {
+      "path": "original_file/papers/AI007-mamba.metadata.html",
+      "sha256_matches": true,
+      "bytes": 43661
+    },
+    {
+      "path": "original_file/papers/AI007-mamba.pdf",
+      "sha256_matches": true,
+      "bytes": 1168615
+    },
+    {
+      "path": "original_file/papers/AI008-switch-transformer.metadata.html",
+      "sha256_matches": true,
+      "bytes": 43814
+    },
+    {
+      "path": "original_file/papers/AI008-switch-transformer.pdf",
+      "sha256_matches": true,
+      "bytes": 1304157
+    },
+    {
+      "path": "original_file/papers/AI009-lora.metadata.html",
+      "sha256_matches": true,
+      "bytes": 44248
+    },
+    {
+      "path": "original_file/papers/AI009-lora.pdf",
+      "sha256_matches": true,
+      "bytes": 1609513
+    },
+    {
+      "path": "original_file/papers/AI010-knowledge-distillation.metadata.html",
+      "sha256_matches": true,
+      "bytes": 41301
+    },
+    {
+      "path": "original_file/papers/AI010-knowledge-distillation.pdf",
+      "sha256_matches": true,
+      "bytes": 106630
+    },
+    {
+      "path": "original_file/papers/AI011-awq.metadata.html",
+      "sha256_matches": true,
+      "bytes": 44966
+    },
+    {
+      "path": "original_file/papers/AI011-awq.pdf",
+      "sha256_matches": true,
+      "bytes": 19804976
+    },
+    {
+      "path": "original_file/papers/AI012-gptq.metadata.html",
+      "sha256_matches": true,
+      "bytes": 44603
+    },
+    {
+      "path": "original_file/papers/AI012-gptq.pdf",
+      "sha256_matches": true,
+      "bytes": 521818
+    },
+    {
+      "path": "original_file/papers/AI013-gqa.metadata.html",
+      "sha256_matches": true,
+      "bytes": 41223
+    },
+    {
+      "path": "original_file/papers/AI013-gqa.pdf",
+      "sha256_matches": true,
+      "bytes": 269116
+    },
+    {
+      "path": "original_file/papers/AI014-roformer.metadata.html",
+      "sha256_matches": true,
+      "bytes": 43899
+    },
+    {
+      "path": "original_file/papers/AI014-roformer.pdf",
+      "sha256_matches": true,
+      "bytes": 599289
+    },
+    {
+      "path": "original_file/papers/AI015-qwen3.metadata.html",
+      "sha256_matches": true,
+      "bytes": 51042
+    },
+    {
+      "path": "original_file/papers/AI015-qwen3.pdf",
+      "sha256_matches": true,
+      "bytes": 779424
+    },
+    {
+      "path": "original_file/papers/AI016-deepseek-v3.metadata.html",
+      "sha256_matches": true,
+      "bytes": 73356
+    },
+    {
+      "path": "original_file/papers/AI016-deepseek-v3.pdf",
+      "sha256_matches": true,
+      "bytes": 1887366
+    },
+    {
+      "path": "original_file/papers/AI017-deepseek-r1.metadata.html",
+      "sha256_matches": true,
+      "bytes": 75710
+    },
+    {
+      "path": "original_file/papers/AI017-deepseek-r1.pdf",
+      "sha256_matches": true,
+      "bytes": 5034998
+    },
+    {
+      "path": "original_file/papers/AI018-llama3.metadata.html",
+      "sha256_matches": true,
+      "bytes": 134776
+    },
+    {
+      "path": "original_file/papers/AI018-llama3.pdf",
+      "sha256_matches": true,
+      "bytes": 9833173
+    },
+    {
+      "path": "original_file/papers/AI019-qwen25-vl.metadata.html",
+      "sha256_matches": true,
+      "bytes": 46388
+    },
+    {
+      "path": "original_file/papers/AI019-qwen25-vl.pdf",
+      "sha256_matches": true,
+      "bytes": 2219929
+    },
+    {
+      "path": "original_file/papers/AI020-qwen38-next.metadata.html",
+      "sha256_matches": true,
+      "bytes": 48017
+    },
+    {
+      "path": "original_file/papers/AI020-qwen38-next.pdf",
+      "sha256_matches": true,
+      "bytes": 2363790
+    },
+    {
+      "path": "original_file/papers/AI021-gemma3.metadata.html",
+      "sha256_matches": true,
+      "bytes": 77048
+    },
+    {
+      "path": "original_file/papers/AI021-gemma3.pdf",
+      "sha256_matches": true,
+      "bytes": 3699196
+    },
+    {
+      "path": "original_file/papers/AI022-deepseek-hardware.metadata.html",
+      "sha256_matches": true,
+      "bytes": 46652
+    },
+    {
+      "path": "original_file/papers/AI022-deepseek-hardware.pdf",
+      "sha256_matches": true,
+      "bytes": 2324702
+    },
+    {
+      "path": "original_file/papers/AI023-flashattention.metadata.html",
+      "sha256_matches": true,
+      "bytes": 43989
+    },
+    {
+      "path": "original_file/papers/AI023-flashattention.pdf",
+      "sha256_matches": true,
+      "bytes": 2630825
+    },
+    {
+      "path": "original_file/papers/AI024-pagedattention.metadata.html",
+      "sha256_matches": true,
+      "bytes": 43425
+    },
+    {
+      "path": "original_file/papers/AI024-pagedattention.pdf",
+      "sha256_matches": true,
+      "bytes": 1459631
+    },
+    {
+      "path": "original_file/papers/AI025-zero.metadata.html",
+      "sha256_matches": true,
+      "bytes": 44751
+    },
+    {
+      "path": "original_file/papers/AI025-zero.pdf",
+      "sha256_matches": true,
+      "bytes": 779206
+    },
+    {
+      "path": "original_file/papers/AI026-megatron-lm.metadata.html",
+      "sha256_matches": true,
+      "bytes": 44456
+    },
+    {
+      "path": "original_file/papers/AI026-megatron-lm.pdf",
+      "sha256_matches": true,
+      "bytes": 3850425
+    },
+    {
+      "path": "original_file/papers/AI027-dpo.metadata.html",
+      "sha256_matches": true,
+      "bytes": 44613
+    },
+    {
+      "path": "original_file/papers/AI027-dpo.pdf",
+      "sha256_matches": true,
+      "bytes": 1299212
+    },
+    {
+      "path": "original_file/papers/AI028-deepseek-math.metadata.html",
+      "sha256_matches": true,
+      "bytes": 42465
+    },
+    {
+      "path": "original_file/papers/AI028-deepseek-math.pdf",
+      "sha256_matches": true,
+      "bytes": 1844642
+    },
+    {
+      "path": "original_file/papers/AI029-speculative-decoding.metadata.html",
+      "sha256_matches": true,
+      "bytes": 41908
+    },
+    {
+      "path": "original_file/papers/AI029-speculative-decoding.pdf",
+      "sha256_matches": true,
+      "bytes": 574982
+    },
+    {
+      "path": "original_file/papers/AI030-sglang.metadata.html",
+      "sha256_matches": true,
+      "bytes": 42426
+    },
+    {
+      "path": "original_file/papers/AI030-sglang.pdf",
+      "sha256_matches": true,
+      "bytes": 1383463
+    },
+    {
+      "path": "original_file/papers/AI031-mlir.metadata.html",
+      "sha256_matches": true,
+      "bytes": 43305
+    },
+    {
+      "path": "original_file/papers/AI031-mlir.pdf",
+      "sha256_matches": true,
+      "bytes": 501183
+    },
+    {
+      "path": "original_file/official/AI032-vllm-architecture.html",
+      "sha256_matches": true,
+      "bytes": 308504
+    },
+    {
+      "path": "original_file/papers/AI033-rlhf.metadata.html",
+      "sha256_matches": true,
+      "bytes": 44863
+    },
+    {
+      "path": "original_file/papers/AI033-rlhf.pdf",
+      "sha256_matches": true,
+      "bytes": 1797405
+    },
+    {
+      "path": "original_file/official/AI034-tensorrt-llm.html",
+      "sha256_matches": true,
+      "bytes": 38482
+    },
+    {
+      "path": "original_file/official/AI035-blackwell.html",
+      "sha256_matches": true,
+      "bytes": 307735
+    },
+    {
+      "path": "original_file/official/AI035-blackwell-document-viewer.html",
+      "sha256_matches": true,
+      "bytes": 523055
+    },
+    {
+      "path": "original_file/papers/AI036-cdna4.pdf",
+      "sha256_matches": true,
+      "bytes": 2703210
+    },
+    {
+      "path": "original_file/papers/AI037-tpu-v4.metadata.html",
+      "sha256_matches": true,
+      "bytes": 44351
+    },
+    {
+      "path": "original_file/papers/AI037-tpu-v4.pdf",
+      "sha256_matches": true,
+      "bytes": 3011399
+    },
+    {
+      "path": "original_file/papers/AI038-tpu-first.metadata.html",
+      "sha256_matches": true,
+      "bytes": 55422
+    },
+    {
+      "path": "original_file/papers/AI038-tpu-first.pdf",
+      "sha256_matches": true,
+      "bytes": 1316647
+    },
+    {
+      "path": "original_file/official/AI039-nccl.html",
+      "sha256_matches": true,
+      "bytes": 89278
+    },
+    {
+      "path": "original_file/papers/AI040-mlperf-inference.metadata.html",
+      "sha256_matches": true,
+      "bytes": 50871
+    },
+    {
+      "path": "original_file/papers/AI040-mlperf-inference.pdf",
+      "sha256_matches": true,
+      "bytes": 1185996
+    },
+    {
+      "path": "original_file/papers/AI041-qualcomm-npu.pdf",
+      "sha256_matches": true,
+      "bytes": 2573337
+    },
+    {
+      "path": "original_file/papers/AI043-mobilellm.metadata.html",
+      "sha256_matches": true,
+      "bytes": 44435
+    },
+    {
+      "path": "original_file/papers/AI043-mobilellm.pdf",
+      "sha256_matches": true,
+      "bytes": 1287643
+    },
+    {
+      "path": "original_file/papers/AI044-mcunet.metadata.html",
+      "sha256_matches": true,
+      "bytes": 43850
+    },
+    {
+      "path": "original_file/papers/AI044-mcunet.pdf",
+      "sha256_matches": true,
+      "bytes": 2809348
+    },
+    {
+      "path": "original_file/official/AI045-onnx-qnn.html",
+      "sha256_matches": true,
+      "bytes": 113085
+    },
+    {
+      "path": "original_file/official/AI046-executorch.html",
+      "sha256_matches": true,
+      "bytes": 94523
+    },
+    {
+      "path": "original_file/code/AI047-mlx/commit.json",
+      "sha256_matches": true,
+      "bytes": 8770
+    },
+    {
+      "path": "original_file/code/AI047-mlx/python/mlx/nn/layers/quantized.py",
+      "sha256_matches": true,
+      "bytes": 14991
+    },
+    {
+      "path": "original_file/code/AI047-mlx/README.md",
+      "sha256_matches": true,
+      "bytes": 4597
+    },
+    {
+      "path": "original_file/code/AI048-llama-cpp/commit.json",
+      "sha256_matches": true,
+      "bytes": 34118
+    },
+    {
+      "path": "original_file/code/AI048-llama-cpp/README.md",
+      "sha256_matches": true,
+      "bytes": 7470
+    },
+    {
+      "path": "original_file/code/AI048-llama-cpp/src/llama-kv-cache.cpp",
+      "sha256_matches": true,
+      "bytes": 97320
+    },
+    {
+      "path": "original_file/code/AI048-llama-cpp/src/llama-model.cpp",
+      "sha256_matches": true,
+      "bytes": 162677
+    },
+    {
+      "path": "original_file/papers/AI049-rag.metadata.html",
+      "sha256_matches": true,
+      "bytes": 45835
+    },
+    {
+      "path": "original_file/papers/AI049-rag.pdf",
+      "sha256_matches": true,
+      "bytes": 885323
+    },
+    {
+      "path": "original_file/papers/AI050-react.metadata.html",
+      "sha256_matches": true,
+      "bytes": 44231
+    },
+    {
+      "path": "original_file/papers/AI050-react.pdf",
+      "sha256_matches": true,
+      "bytes": 633805
+    },
+    {
+      "path": "original_file/papers/AI051-toolformer.metadata.html",
+      "sha256_matches": true,
+      "bytes": 41534
+    },
+    {
+      "path": "original_file/papers/AI051-toolformer.pdf",
+      "sha256_matches": true,
+      "bytes": 657966
+    },
+    {
+      "path": "original_file/papers/AI052-vit.metadata.html",
+      "sha256_matches": true,
+      "bytes": 44035
+    },
+    {
+      "path": "original_file/papers/AI052-vit.pdf",
+      "sha256_matches": true,
+      "bytes": 3743814
+    },
+    {
+      "path": "original_file/papers/AI053-clip.metadata.html",
+      "sha256_matches": true,
+      "bytes": 44839
+    },
+    {
+      "path": "original_file/papers/AI053-clip.pdf",
+      "sha256_matches": true,
+      "bytes": 6813639
+    },
+    {
+      "path": "original_file/papers/AI054-whisper.metadata.html",
+      "sha256_matches": true,
+      "bytes": 40046
+    },
+    {
+      "path": "original_file/papers/AI054-whisper.pdf",
+      "sha256_matches": true,
+      "bytes": 1008644
+    },
+    {
+      "path": "original_file/papers/AI055-dlrm.metadata.html",
+      "sha256_matches": true,
+      "bytes": 46107
+    },
+    {
+      "path": "original_file/papers/AI055-dlrm.pdf",
+      "sha256_matches": true,
+      "bytes": 1753300
+    },
+    {
+      "path": "original_file/papers/AI056-rt2.metadata.html",
+      "sha256_matches": true,
+      "bytes": 52582
+    },
+    {
+      "path": "original_file/papers/AI056-rt2.pdf",
+      "sha256_matches": true,
+      "bytes": 15668163
+    },
+    {
+      "path": "original_file/papers/AI057-qwen3-tts.metadata.html",
+      "sha256_matches": true,
+      "bytes": 43432
+    },
+    {
+      "path": "original_file/papers/AI057-qwen3-tts.pdf",
+      "sha256_matches": true,
+      "bytes": 8053676
+    },
+    {
+      "path": "original_file/blogs/AI058-illustrated-transformer.html",
+      "sha256_matches": true,
+      "bytes": 47552
+    },
+    {
+      "path": "original_file/blogs/assets/AI058/4e279a4f9919861ca6.img",
+      "sha256_matches": true,
+      "bytes": 241755
+    },
+    {
+      "path": "original_file/blogs/assets/AI058/43db0665aa252e79b5.png",
+      "sha256_matches": true,
+      "bytes": 44824
+    },
+    {
+      "path": "original_file/blogs/assets/AI058/a4cb57c2067d480b4e.png",
+      "sha256_matches": true,
+      "bytes": 39199
+    },
+    {
+      "path": "original_file/blogs/assets/AI058/1591e13c321217993b.png",
+      "sha256_matches": true,
+      "bytes": 127812
+    },
+    {
+      "path": "original_file/blogs/assets/AI058/0237be5db3c812539b.png",
+      "sha256_matches": true,
+      "bytes": 32628
+    },
+    {
+      "path": "original_file/blogs/assets/AI058/7a7ae79151e15ec8e5.png",
+      "sha256_matches": true,
+      "bytes": 38751
+    },
+    {
+      "path": "original_file/blogs/assets/AI058/f93fcbf7e9125cb65e.png",
+      "sha256_matches": true,
+      "bytes": 13335
+    },
+    {
+      "path": "original_file/blogs/assets/AI058/31f6d1b24e4d93aaf7.png",
+      "sha256_matches": true,
+      "bytes": 57027
+    },
+    {
+      "path": "original_file/blogs/assets/AI058/2ea55b6900b2558a1f.png",
+      "sha256_matches": true,
+      "bytes": 79065
+    },
+    {
+      "path": "original_file/blogs/assets/AI058/481444395b0c639a90.png",
+      "sha256_matches": true,
+      "bytes": 50075
+    },
+    {
+      "path": "original_file/blogs/assets/AI058/0714f7640f6f40af2e.png",
+      "sha256_matches": true,
+      "bytes": 38480
+    },
+    {
+      "path": "original_file/blogs/assets/AI058/4150065abbacfc1f83.png",
+      "sha256_matches": true,
+      "bytes": 33304
+    },
+    {
+      "path": "original_file/blogs/assets/AI058/0cf5b8bffc1f5d27db.png",
+      "sha256_matches": true,
+      "bytes": 53877
+    },
+    {
+      "path": "original_file/blogs/assets/AI058/4117d74a24462e6798.png",
+      "sha256_matches": true,
+      "bytes": 61686
+    },
+    {
+      "path": "original_file/blogs/assets/AI058/02857a78f327c1a084.png",
+      "sha256_matches": true,
+      "bytes": 28115
+    },
+    {
+      "path": "original_file/blogs/assets/AI058/c24036a95aee75b7f4.png",
+      "sha256_matches": true,
+      "bytes": 27585
+    },
+    {
+      "path": "original_file/blogs/assets/AI058/0c903d60fcec1e26b6.png",
+      "sha256_matches": true,
+      "bytes": 56246
+    },
+    {
+      "path": "original_file/blogs/assets/AI058/d061d52873997c04f4.png",
+      "sha256_matches": true,
+      "bytes": 46541
+    },
+    {
+      "path": "original_file/blogs/assets/AI058/424bba303f1d5b4582.png",
+      "sha256_matches": true,
+      "bytes": 89919
+    },
+    {
+      "path": "original_file/blogs/assets/AI058/37b8b7703c57597f10.png",
+      "sha256_matches": true,
+      "bytes": 166831
+    },
+    {
+      "path": "original_file/blogs/assets/AI058/887bc33683d4d31ea1.png",
+      "sha256_matches": true,
+      "bytes": 52267
+    },
+    {
+      "path": "original_file/blogs/assets/AI058/155a3efdc93b225373.png",
+      "sha256_matches": true,
+      "bytes": 58366
+    },
+    {
+      "path": "original_file/blogs/assets/AI058/22aa6e63e2466f0eb7.png",
+      "sha256_matches": true,
+      "bytes": 89885
+    },
+    {
+      "path": "original_file/blogs/assets/AI058/dec5fb0fe4ec26af4f.png",
+      "sha256_matches": true,
+      "bytes": 42164
+    },
+    {
+      "path": "original_file/blogs/assets/AI058/32c07047e3475eb481.png",
+      "sha256_matches": true,
+      "bytes": 36534
+    },
+    {
+      "path": "original_file/blogs/assets/AI058/87126b588bb2ceb0e0.png",
+      "sha256_matches": true,
+      "bytes": 13305
+    },
+    {
+      "path": "original_file/blogs/assets/AI058/398ea635b3f19e87e3.png",
+      "sha256_matches": true,
+      "bytes": 63629
+    },
+    {
+      "path": "original_file/blogs/assets/AI058/29057d5d3cfc1c9248.png",
+      "sha256_matches": true,
+      "bytes": 79522
+    },
+    {
+      "path": "original_file/blogs/assets/AI058/2bb8f8e86602c6a263.png",
+      "sha256_matches": true,
+      "bytes": 188129
+    },
+    {
+      "path": "original_file/blogs/assets/AI058/4fe50f2aeca034f7a3.png",
+      "sha256_matches": true,
+      "bytes": 70754
+    },
+    {
+      "path": "original_file/blogs/assets/AI058/67ae465651399dd063.png",
+      "sha256_matches": true,
+      "bytes": 34881
+    },
+    {
+      "path": "original_file/blogs/assets/AI058/5dcccb2d6b9ab6a719.png",
+      "sha256_matches": true,
+      "bytes": 53816
+    },
+    {
+      "path": "original_file/blogs/assets/AI058/188844a19bfcf4399b.png",
+      "sha256_matches": true,
+      "bytes": 55067
+    },
+    {
+      "path": "original_file/blogs/assets/AI058/02a07940f121baec00.png",
+      "sha256_matches": true,
+      "bytes": 72702
+    },
+    {
+      "path": "original_file/blogs/assets/AI058/6d3c86da49d9234fbc.png",
+      "sha256_matches": true,
+      "bytes": 81645
+    },
+    {
+      "path": "original_file/blogs/AI058-illustrated-transformer.reader.html",
+      "sha256_matches": true,
+      "bytes": 37435
+    },
+    {
+      "path": "original_file/blogs/AI059-illustrated-gpt2.html",
+      "sha256_matches": true,
+      "bytes": 54964
+    },
+    {
+      "path": "original_file/blogs/assets/AI059/86bde3c04533045b09.png",
+      "sha256_matches": true,
+      "bytes": 254883
+    },
+    {
+      "path": "original_file/blogs/assets/AI059/34ab477ce48c86a87a.png",
+      "sha256_matches": true,
+      "bytes": 87175
+    },
+    {
+      "path": "original_file/blogs/assets/AI059/b9afb38e57e0b5c2e0.png",
+      "sha256_matches": true,
+      "bytes": 445120
+    },
+    {
+      "path": "original_file/blogs/assets/AI059/04da93af8c0c2fadbf.png",
+      "sha256_matches": true,
+      "bytes": 156771
+    },
+    {
+      "path": "original_file/blogs/assets/AI059/25c4c59596faad3632.png",
+      "sha256_matches": true,
+      "bytes": 97365
+    },
+    {
+      "path": "original_file/blogs/assets/AI059/e2ca278fd0c8a948cc.png",
+      "sha256_matches": true,
+      "bytes": 139988
+    },
+    {
+      "path": "original_file/blogs/assets/AI059/7535b76842db7f4903.gif",
+      "sha256_matches": true,
+      "bytes": 322975
+    },
+    {
+      "path": "original_file/blogs/assets/AI059/77861f40fd79f4fd2a.png",
+      "sha256_matches": true,
+      "bytes": 98447
+    },
+    {
+      "path": "original_file/blogs/assets/AI059/745fdce45a3658bf14.png",
+      "sha256_matches": true,
+      "bytes": 111341
+    },
+    {
+      "path": "original_file/blogs/assets/AI059/4880da4b17fcd206fd.png",
+      "sha256_matches": true,
+      "bytes": 113321
+    },
+    {
+      "path": "original_file/blogs/assets/AI059/b3406859e8d07e4300.png",
+      "sha256_matches": true,
+      "bytes": 64645
+    },
+    {
+      "path": "original_file/blogs/assets/AI059/14415843b203400cbc.png",
+      "sha256_matches": true,
+      "bytes": 108118
+    },
+    {
+      "path": "original_file/blogs/assets/AI059/b3241051abb5544fcb.png",
+      "sha256_matches": true,
+      "bytes": 63872
+    },
+    {
+      "path": "original_file/blogs/assets/AI059/e12af28b096f5a8e63.gif",
+      "sha256_matches": true,
+      "bytes": 478095
+    },
+    {
+      "path": "original_file/blogs/assets/AI059/d1803829385ee672a8.gif",
+      "sha256_matches": true,
+      "bytes": 463765
+    },
+    {
+      "path": "original_file/blogs/assets/AI059/3f1a20640da890820e.png",
+      "sha256_matches": true,
+      "bytes": 65486
+    },
+    {
+      "path": "original_file/blogs/assets/AI059/8af393c6e1520ebc12.png",
+      "sha256_matches": true,
+      "bytes": 57938
+    },
+    {
+      "path": "original_file/blogs/assets/AI059/c1be2ce9ce4e81dc35.png",
+      "sha256_matches": true,
+      "bytes": 67055
+    },
+    {
+      "path": "original_file/blogs/assets/AI059/7b490b0366acf2e2c8.png",
+      "sha256_matches": true,
+      "bytes": 88228
+    },
+    {
+      "path": "original_file/blogs/assets/AI059/cd28a43c6c88077293.png",
+      "sha256_matches": true,
+      "bytes": 101449
+    },
+    {
+      "path": "original_file/blogs/assets/AI059/5526d195dbc312a9e5.png",
+      "sha256_matches": true,
+      "bytes": 214551
+    },
+    {
+      "path": "original_file/blogs/assets/AI059/c59c941107629f3728.png",
+      "sha256_matches": true,
+      "bytes": 215960
+    },
+    {
+      "path": "original_file/blogs/assets/AI059/16db11b6e5d51c2a7a.png",
+      "sha256_matches": true,
+      "bytes": 81383
+    },
+    {
+      "path": "original_file/blogs/assets/AI059/b57459d89813173aae.png",
+      "sha256_matches": true,
+      "bytes": 66199
+    },
+    {
+      "path": "original_file/blogs/assets/AI059/cd7bae16319151a0b1.png",
+      "sha256_matches": true,
+      "bytes": 65078
+    },
+    {
+      "path": "original_file/blogs/assets/AI059/4b9bf794f59d4c33d3.png",
+      "sha256_matches": true,
+      "bytes": 102812
+    },
+    {
+      "path": "original_file/blogs/assets/AI059/b988ad1c94ff7e1267.png",
+      "sha256_matches": true,
+      "bytes": 14754
+    },
+    {
+      "path": "original_file/blogs/assets/AI059/fb2ddec2acb520d9a7.png",
+      "sha256_matches": true,
+      "bytes": 60282
+    },
+    {
+      "path": "original_file/blogs/assets/AI059/0912d91c4aaf7bd770.png",
+      "sha256_matches": true,
+      "bytes": 58751
+    },
+    {
+      "path": "original_file/blogs/assets/AI059/e0c7cf89bd8d19d51b.png",
+      "sha256_matches": true,
+      "bytes": 120447
+    },
+    {
+      "path": "original_file/blogs/assets/AI059/9fe2a7a166e9f45253.png",
+      "sha256_matches": true,
+      "bytes": 123071
+    },
+    {
+      "path": "original_file/blogs/assets/AI059/16c3a224f34afc4794.png",
+      "sha256_matches": true,
+      "bytes": 89601
+    },
+    {
+      "path": "original_file/blogs/assets/AI059/73762fd26dc08bed5e.png",
+      "sha256_matches": true,
+      "bytes": 75091
+    },
+    {
+      "path": "original_file/blogs/assets/AI059/58eea9d8701df9ce35.png",
+      "sha256_matches": true,
+      "bytes": 70913
+    },
+    {
+      "path": "original_file/blogs/assets/AI059/3379bc2a0673c0ea83.png",
+      "sha256_matches": true,
+      "bytes": 86398
+    },
+    {
+      "path": "original_file/blogs/assets/AI059/5d2d4be7b0f92b9881.png",
+      "sha256_matches": true,
+      "bytes": 65381
+    },
+    {
+      "path": "original_file/blogs/assets/AI059/173e37c9347af6a419.png",
+      "sha256_matches": true,
+      "bytes": 67660
+    },
+    {
+      "path": "original_file/blogs/assets/AI059/40e4751a579a327f40.png",
+      "sha256_matches": true,
+      "bytes": 80034
+    },
+    {
+      "path": "original_file/blogs/assets/AI059/3773bdb615eb41ab99.png",
+      "sha256_matches": true,
+      "bytes": 86460
+    },
+    {
+      "path": "original_file/blogs/assets/AI059/cfad7167f0dd5cbc48.png",
+      "sha256_matches": true,
+      "bytes": 87498
+    },
+    {
+      "path": "original_file/blogs/assets/AI059/2973740274bb30c38e.png",
+      "sha256_matches": true,
+      "bytes": 70978
+    },
+    {
+      "path": "original_file/blogs/assets/AI059/5887de134df7c77807.png",
+      "sha256_matches": true,
+      "bytes": 83655
+    },
+    {
+      "path": "original_file/blogs/assets/AI059/44d3fee4c2d341ce4d.png",
+      "sha256_matches": true,
+      "bytes": 94222
+    },
+    {
+      "path": "original_file/blogs/assets/AI059/3f8111b7cc4a62ce4a.png",
+      "sha256_matches": true,
+      "bytes": 98659
+    },
+    {
+      "path": "original_file/blogs/assets/AI059/e452061e310bff3bdf.png",
+      "sha256_matches": true,
+      "bytes": 123004
+    },
+    {
+      "path": "original_file/blogs/assets/AI059/b4fa8e77b6cf5d123a.png",
+      "sha256_matches": true,
+      "bytes": 95755
+    },
+    {
+      "path": "original_file/blogs/assets/AI059/f92e279269dcc1763a.png",
+      "sha256_matches": true,
+      "bytes": 134517
+    },
+    {
+      "path": "original_file/blogs/assets/AI059/949ae73da2cf5e5c0f.png",
+      "sha256_matches": true,
+      "bytes": 84090
+    },
+    {
+      "path": "original_file/blogs/assets/AI059/f5d75200d3c7f54c35.png",
+      "sha256_matches": true,
+      "bytes": 112385
+    },
+    {
+      "path": "original_file/blogs/assets/AI059/f6943ab59c81083660.png",
+      "sha256_matches": true,
+      "bytes": 84321
+    },
+    {
+      "path": "original_file/blogs/assets/AI059/1fac52345f666192dc.png",
+      "sha256_matches": true,
+      "bytes": 94806
+    },
+    {
+      "path": "original_file/blogs/assets/AI059/c7b869e9f1fe77139f.gif",
+      "sha256_matches": true,
+      "bytes": 1189061
+    },
+    {
+      "path": "original_file/blogs/assets/AI059/229399d5c5d4902ee3.png",
+      "sha256_matches": true,
+      "bytes": 113600
+    },
+    {
+      "path": "original_file/blogs/assets/AI059/1cb73af3742419cb9d.png",
+      "sha256_matches": true,
+      "bytes": 91798
+    },
+    {
+      "path": "original_file/blogs/assets/AI059/2c83e5abd07103218b.png",
+      "sha256_matches": true,
+      "bytes": 65478
+    },
+    {
+      "path": "original_file/blogs/assets/AI059/46915537d7bf424ccc.png",
+      "sha256_matches": true,
+      "bytes": 118891
+    },
+    {
+      "path": "original_file/blogs/assets/AI059/aa18583eee4325ab5b.png",
+      "sha256_matches": true,
+      "bytes": 433002
+    },
+    {
+      "path": "original_file/blogs/assets/AI059/4c5ac4037f3c1c4eda.png",
+      "sha256_matches": true,
+      "bytes": 120684
+    },
+    {
+      "path": "original_file/blogs/assets/AI059/e43ba0c9c361da1730.png",
+      "sha256_matches": true,
+      "bytes": 122307
+    },
+    {
+      "path": "original_file/blogs/assets/AI059/c860cef6eca7bcee65.png",
+      "sha256_matches": true,
+      "bytes": 51194
+    },
+    {
+      "path": "original_file/blogs/assets/AI059/048a3ddf425ca5e991.png",
+      "sha256_matches": true,
+      "bytes": 78868
+    },
+    {
+      "path": "original_file/blogs/assets/AI059/454795af7b68bf06f2.png",
+      "sha256_matches": true,
+      "bytes": 155898
+    },
+    {
+      "path": "original_file/blogs/AI059-illustrated-gpt2.reader.html",
+      "sha256_matches": true,
+      "bytes": 45092
+    },
+    {
+      "path": "original_file/blogs/AI060-lilian-agents.html",
+      "sha256_matches": true,
+      "bytes": 129902
+    },
+    {
+      "path": "original_file/blogs/assets/AI060/54dac301e95db4fdb6.png",
+      "sha256_matches": true,
+      "bytes": 139506
+    },
+    {
+      "path": "original_file/blogs/assets/AI060/c42e39a0ec854ca260.png",
+      "sha256_matches": true,
+      "bytes": 1407522
+    },
+    {
+      "path": "original_file/blogs/assets/AI060/87353f3e2d1915578c.png",
+      "sha256_matches": true,
+      "bytes": 140059
+    },
+    {
+      "path": "original_file/blogs/assets/AI060/e84b2b19e590ea2bf3.png",
+      "sha256_matches": true,
+      "bytes": 820263
+    },
+    {
+      "path": "original_file/blogs/assets/AI060/180d65e0a9196570e2.png",
+      "sha256_matches": true,
+      "bytes": 184280
+    },
+    {
+      "path": "original_file/blogs/assets/AI060/fcbd2c04e209464150.png",
+      "sha256_matches": true,
+      "bytes": 202390
+    },
+    {
+      "path": "original_file/blogs/assets/AI060/727ddf89542ef63e0c.png",
+      "sha256_matches": true,
+      "bytes": 288032
+    },
+    {
+      "path": "original_file/blogs/assets/AI060/43d4def41a6a8a189b.png",
+      "sha256_matches": true,
+      "bytes": 122997
+    },
+    {
+      "path": "original_file/blogs/assets/AI060/aa095f40b1c52ffa85.png",
+      "sha256_matches": true,
+      "bytes": 146730
+    },
+    {
+      "path": "original_file/blogs/assets/AI060/20f1ff6ba8bc539a17.png",
+      "sha256_matches": true,
+      "bytes": 584532
+    },
+    {
+      "path": "original_file/blogs/assets/AI060/66755ce90125cc263f.png",
+      "sha256_matches": true,
+      "bytes": 264224
+    },
+    {
+      "path": "original_file/blogs/assets/AI060/2cf00e3548b5660bf9.png",
+      "sha256_matches": true,
+      "bytes": 188949
+    },
+    {
+      "path": "original_file/blogs/AI060-lilian-agents.reader.html",
+      "sha256_matches": true,
+      "bytes": 59038
+    },
+    {
+      "path": "original_file/blogs/AI061-lilian-diffusion.html",
+      "sha256_matches": true,
+      "bytes": 154082
+    },
+    {
+      "path": "original_file/blogs/assets/AI061/41a09a8696808ecce0.png",
+      "sha256_matches": true,
+      "bytes": 525595
+    },
+    {
+      "path": "original_file/blogs/assets/AI061/e78e0ba4b34cda911a.png",
+      "sha256_matches": true,
+      "bytes": 839600
+    },
+    {
+      "path": "original_file/blogs/assets/AI061/8f6527c6c3694c587d.png",
+      "sha256_matches": true,
+      "bytes": 280949
+    },
+    {
+      "path": "original_file/blogs/assets/AI061/ea3831d82b483995f8.png",
+      "sha256_matches": true,
+      "bytes": 128389
+    },
+    {
+      "path": "original_file/blogs/assets/AI061/2a1b7652ba6cc48a12.png",
+      "sha256_matches": true,
+      "bytes": 461423
+    },
+    {
+      "path": "original_file/blogs/assets/AI061/457cd3bc047052c18a.png",
+      "sha256_matches": true,
+      "bytes": 1535460
+    },
+    {
+      "path": "original_file/blogs/assets/AI061/7b1d616dab0a8609f1.png",
+      "sha256_matches": true,
+      "bytes": 136690
+    },
+    {
+      "path": "original_file/blogs/assets/AI061/feaad52a803d77f9d8.png",
+      "sha256_matches": true,
+      "bytes": 139161
+    },
+    {
+      "path": "original_file/blogs/assets/AI061/d3eae5a72206efa485.png",
+      "sha256_matches": true,
+      "bytes": 337076
+    },
+    {
+      "path": "original_file/blogs/assets/AI061/f63895c8c6c047926f.png",
+      "sha256_matches": true,
+      "bytes": 531125
+    },
+    {
+      "path": "original_file/blogs/assets/AI061/cf193ab727b4044922.png",
+      "sha256_matches": true,
+      "bytes": 701014
+    },
+    {
+      "path": "original_file/blogs/assets/AI061/7865196e2489fc001d.png",
+      "sha256_matches": true,
+      "bytes": 858306
+    },
+    {
+      "path": "original_file/blogs/assets/AI061/364a0fd3015ab3fcac.png",
+      "sha256_matches": true,
+      "bytes": 338942
+    },
+    {
+      "path": "original_file/blogs/assets/AI061/34e80819222058397d.png",
+      "sha256_matches": true,
+      "bytes": 428232
+    },
+    {
+      "path": "original_file/blogs/assets/AI061/92f9487fb8e9f97c51.png",
+      "sha256_matches": true,
+      "bytes": 750479
+    },
+    {
+      "path": "original_file/blogs/assets/AI061/7726aba941acd21dd1.png",
+      "sha256_matches": true,
+      "bytes": 173159
+    },
+    {
+      "path": "original_file/blogs/assets/AI061/7ca77e5b5a81baabf9.png",
+      "sha256_matches": true,
+      "bytes": 96971
+    },
+    {
+      "path": "original_file/blogs/assets/AI061/b56eeacd975c488122.png",
+      "sha256_matches": true,
+      "bytes": 106505
+    },
+    {
+      "path": "original_file/blogs/AI061-lilian-diffusion.reader.html",
+      "sha256_matches": true,
+      "bytes": 72881
+    },
+    {
+      "path": "original_file/blogs/AI062-raschka-comparison.html",
+      "sha256_matches": true,
+      "bytes": 1106009
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/9c84c2badc9dfe4f9a.jpeg",
+      "sha256_matches": true,
+      "bytes": 1444
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/4aa796c6659453f9e3.png",
+      "sha256_matches": true,
+      "bytes": 187116
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/2ae0d9278610863113.png",
+      "sha256_matches": true,
+      "bytes": 4691
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/2b0599111e96bd10e4.png",
+      "sha256_matches": true,
+      "bytes": 52845
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/81d1b7945447783f5b.png",
+      "sha256_matches": true,
+      "bytes": 171729
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/e62f65fcd5b0452783.png",
+      "sha256_matches": true,
+      "bytes": 127255
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/527b3af738d85b32fb.png",
+      "sha256_matches": true,
+      "bytes": 176157
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/073964ab296cdb9f92.png",
+      "sha256_matches": true,
+      "bytes": 79003
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/63bc3f18bd4c33a94a.png",
+      "sha256_matches": true,
+      "bytes": 86230
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/7cdf971b8b7edb92dc.png",
+      "sha256_matches": true,
+      "bytes": 140020
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/fffe6402f723cb41a5.png",
+      "sha256_matches": true,
+      "bytes": 48568
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/0ef4f4b7293dd9c0a2.png",
+      "sha256_matches": true,
+      "bytes": 132408
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/9a7c3a27d3db37d66e.png",
+      "sha256_matches": true,
+      "bytes": 22467
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/8b58d112146406c0d6.png",
+      "sha256_matches": true,
+      "bytes": 90186
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/e82aa4f3eff6609ea2.png",
+      "sha256_matches": true,
+      "bytes": 216877
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/4c4547c584f3c51654.png",
+      "sha256_matches": true,
+      "bytes": 45744
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/3a853c1570bc5f0dc4.png",
+      "sha256_matches": true,
+      "bytes": 93081
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/d690b7401d0c307aa2.png",
+      "sha256_matches": true,
+      "bytes": 155138
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/cf1432bc95c6b80842.png",
+      "sha256_matches": true,
+      "bytes": 292877
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/86c5ccef112c78b5c5.png",
+      "sha256_matches": true,
+      "bytes": 227086
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/efbc19fcae1ef280b4.png",
+      "sha256_matches": true,
+      "bytes": 265256
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/2ce186ca92b40f80c8.png",
+      "sha256_matches": true,
+      "bytes": 55364
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/d6be9aac891acf3c80.png",
+      "sha256_matches": true,
+      "bytes": 151369
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/750e281c5d2fd6e3a1.png",
+      "sha256_matches": true,
+      "bytes": 70259
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/a3f16223736fc06cb3.png",
+      "sha256_matches": true,
+      "bytes": 125897
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/8f269bbd07677834df.png",
+      "sha256_matches": true,
+      "bytes": 125141
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/82a032f8798aa06f0f.png",
+      "sha256_matches": true,
+      "bytes": 160345
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/600852a2bd2e852889.jpeg",
+      "sha256_matches": true,
+      "bytes": 209205
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/879f6e705e3570293b.png",
+      "sha256_matches": true,
+      "bytes": 11992
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/6f90f09cc77c4c4f1b.png",
+      "sha256_matches": true,
+      "bytes": 243062
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/d7bb9c3fe0bf4c3135.png",
+      "sha256_matches": true,
+      "bytes": 288199
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/ca9a9cf1c0ec519da8.png",
+      "sha256_matches": true,
+      "bytes": 78933
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/3801291b95305b7409.png",
+      "sha256_matches": true,
+      "bytes": 128951
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/476ea6c56db8ef7661.png",
+      "sha256_matches": true,
+      "bytes": 8187
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/6408b09a383e342587.png",
+      "sha256_matches": true,
+      "bytes": 93150
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/fce5dc45927332619f.png",
+      "sha256_matches": true,
+      "bytes": 228558
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/b0e1d3dc3182e03b37.jpeg",
+      "sha256_matches": true,
+      "bytes": 267641
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/b39adb9a26c83cd504.png",
+      "sha256_matches": true,
+      "bytes": 141191
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/8bca24365647f26e26.png",
+      "sha256_matches": true,
+      "bytes": 279183
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/e4a0312b875751f789.png",
+      "sha256_matches": true,
+      "bytes": 301568
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/7ae0ef965a5460ff64.png",
+      "sha256_matches": true,
+      "bytes": 89354
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/5ccaba45bd4ef7f16f.png",
+      "sha256_matches": true,
+      "bytes": 54836
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/a3159c93794c999eb6.png",
+      "sha256_matches": true,
+      "bytes": 150048
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/c6f1361fdb6171542e.png",
+      "sha256_matches": true,
+      "bytes": 2972
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/7ab112782e1a8864ed.png",
+      "sha256_matches": true,
+      "bytes": 66508
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/c871513b5961eafd17.png",
+      "sha256_matches": true,
+      "bytes": 21453
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/8007ce99c1cfdd3841.png",
+      "sha256_matches": true,
+      "bytes": 170004
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/fcc605d094c1afaa2a.png",
+      "sha256_matches": true,
+      "bytes": 38884
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/178663c97fc9bfb13f.png",
+      "sha256_matches": true,
+      "bytes": 209049
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/c9d55c0e3aaa7dd56a.png",
+      "sha256_matches": true,
+      "bytes": 219881
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/692588ad14f7bf2ebf.png",
+      "sha256_matches": true,
+      "bytes": 155306
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/82c60e66bb359a7406.png",
+      "sha256_matches": true,
+      "bytes": 59555
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/f68c1b8f6c397dffb5.png",
+      "sha256_matches": true,
+      "bytes": 101278
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/ba090087f68c03bf8b.png",
+      "sha256_matches": true,
+      "bytes": 5084
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/2a7ed3b43135d2399e.png",
+      "sha256_matches": true,
+      "bytes": 188896
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/510e8a9d767aa5d7ea.png",
+      "sha256_matches": true,
+      "bytes": 146968
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/38f7bdfaec8dabccab.png",
+      "sha256_matches": true,
+      "bytes": 160781
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/b0090b5290a2461ef7.jpeg",
+      "sha256_matches": true,
+      "bytes": 6048
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/29b070db2e5ba70c8f.png",
+      "sha256_matches": true,
+      "bytes": 128001
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/e9d210362e50ff174c.png",
+      "sha256_matches": true,
+      "bytes": 163465
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/251bbf9a33bd6db876.png",
+      "sha256_matches": true,
+      "bytes": 104470
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/3c8601244271642c57.png",
+      "sha256_matches": true,
+      "bytes": 147235
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/d7eb288c70bffa5e77.png",
+      "sha256_matches": true,
+      "bytes": 209325
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/36362a9ce698adb644.png",
+      "sha256_matches": true,
+      "bytes": 139409
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/e8fb654c117e118094.png",
+      "sha256_matches": true,
+      "bytes": 49019
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/2316f3db00051e0826.png",
+      "sha256_matches": true,
+      "bytes": 275076
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/a88ac5a8efe6f93ece.png",
+      "sha256_matches": true,
+      "bytes": 226768
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/2eefa2869f19151c7e.png",
+      "sha256_matches": true,
+      "bytes": 71347
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/1ae9fe6f96f151ba6b.png",
+      "sha256_matches": true,
+      "bytes": 115051
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/5a956c7f51e2f7d1c1.png",
+      "sha256_matches": true,
+      "bytes": 5531
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/d55b6b6ffd52f623c4.png",
+      "sha256_matches": true,
+      "bytes": 162146
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/9c58fd9fb2a4d6455b.png",
+      "sha256_matches": true,
+      "bytes": 136644
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/e4dc986400e413e371.png",
+      "sha256_matches": true,
+      "bytes": 155087
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/b17b03703791a2fa25.webp",
+      "sha256_matches": true,
+      "bytes": 307173
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/fddd7415077ca40fb7.webp",
+      "sha256_matches": true,
+      "bytes": 104982
+    },
+    {
+      "path": "original_file/blogs/AI062-raschka-comparison.reader.html",
+      "sha256_matches": true,
+      "bytes": 244730
+    },
+    {
+      "path": "original_file/blogs/AI063-go-brrr.html",
+      "sha256_matches": true,
+      "bytes": 158696
+    },
+    {
+      "path": "original_file/blogs/assets/AI063/d0b5597b3cccae1663.webp",
+      "sha256_matches": true,
+      "bytes": 194108
+    },
+    {
+      "path": "original_file/blogs/assets/AI063/ff1c150a9b536004d1.png",
+      "sha256_matches": true,
+      "bytes": 897384
+    },
+    {
+      "path": "original_file/blogs/assets/AI063/b78ae19f79ecf033e7.png",
+      "sha256_matches": true,
+      "bytes": 155206
+    },
+    {
+      "path": "original_file/blogs/assets/AI063/68dbaa11bbe933371c.png",
+      "sha256_matches": true,
+      "bytes": 165185
+    },
+    {
+      "path": "original_file/blogs/assets/AI063/6a4e55646f98c37d71.png",
+      "sha256_matches": true,
+      "bytes": 114337
+    },
+    {
+      "path": "original_file/blogs/assets/AI063/0ae81fe6def48b89ed.png",
+      "sha256_matches": true,
+      "bytes": 63209
+    },
+    {
+      "path": "original_file/blogs/assets/AI063/5d964cb5d2504e724a.png",
+      "sha256_matches": true,
+      "bytes": 200813
+    },
+    {
+      "path": "original_file/blogs/assets/AI063/84e65318066b94746a.png",
+      "sha256_matches": true,
+      "bytes": 126179
+    },
+    {
+      "path": "original_file/blogs/assets/AI063/48530c2f024e5877b1.png",
+      "sha256_matches": true,
+      "bytes": 94993
+    },
+    {
+      "path": "original_file/blogs/assets/AI063/ed8f019bc4815f9507.png",
+      "sha256_matches": true,
+      "bytes": 24945
+    },
+    {
+      "path": "original_file/blogs/assets/AI063/42a2f8d1fa9d6054dd.png",
+      "sha256_matches": true,
+      "bytes": 1403550
+    },
+    {
+      "path": "original_file/blogs/assets/AI063/d3cd4720b237a0997b.png",
+      "sha256_matches": true,
+      "bytes": 67709
+    },
+    {
+      "path": "original_file/blogs/assets/AI063/b0ce742f4047035da2.png",
+      "sha256_matches": true,
+      "bytes": 109876
+    },
+    {
+      "path": "original_file/blogs/AI063-go-brrr.reader.html",
+      "sha256_matches": true,
+      "bytes": 145945
+    },
+    {
+      "path": "original_file/code/AI065-qwen3-implementation/commit.json",
+      "sha256_matches": true,
+      "bytes": 40972
+    },
+    {
+      "path": "original_file/code/AI065-qwen3-implementation/src/transformers/models/qwen3/modeling_qwen3.py",
+      "sha256_matches": true,
+      "bytes": 22873
+    },
+    {
+      "path": "original_file/code/AI065-qwen3-implementation/src/transformers/models/qwen3/configuration_qwen3.py",
+      "sha256_matches": true,
+      "bytes": 11786
+    }
+  ],
+  "images": [
+    {
+      "path": "original_file/blogs/assets/AI001/cbdade00d50f392e67.img",
+      "format": "PNG",
+      "width": 1080,
+      "height": 538,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI001/948841592ddd0e10bc.img",
+      "format": "PNG",
+      "width": 1080,
+      "height": 608,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI001/dcaac3480c6bbecb3d.img",
+      "format": "PNG",
+      "width": 1080,
+      "height": 608,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI001/3417c9e5c7eed5f5fd.img",
+      "format": "PNG",
+      "width": 1080,
+      "height": 608,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI001/998ec24b24322e18b8.img",
+      "format": "PNG",
+      "width": 1080,
+      "height": 608,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI001/56a98c390aab23514d.img",
+      "format": "PNG",
+      "width": 1080,
+      "height": 501,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI001/4cdc008db2735ca672.img",
+      "format": "PNG",
+      "width": 1080,
+      "height": 608,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI001/a36a4fbff152776533.img",
+      "format": "PNG",
+      "width": 1080,
+      "height": 608,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI002/eaf2ee557537975d39.img",
+      "format": "PNG",
+      "width": 1080,
+      "height": 485,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI002/f0f6499d3bb2a57b0b.img",
+      "format": "PNG",
+      "width": 1080,
+      "height": 516,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI002/78c9ba0664d4ffdd74.img",
+      "format": "PNG",
+      "width": 1080,
+      "height": 490,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI002/5345d4963cdaae6f71.img",
+      "format": "PNG",
+      "width": 1080,
+      "height": 517,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI002/4449c1885cbe8431b6.img",
+      "format": "PNG",
+      "width": 1080,
+      "height": 517,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI002/6d0970e00dac38a710.img",
+      "format": "PNG",
+      "width": 1080,
+      "height": 538,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI058/4e279a4f9919861ca6.img",
+      "format": "PNG",
+      "width": 582,
+      "height": 768,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI058/43db0665aa252e79b5.png",
+      "format": "PNG",
+      "width": 1127,
+      "height": 294,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI058/a4cb57c2067d480b4e.png",
+      "format": "PNG",
+      "width": 756,
+      "height": 474,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI058/1591e13c321217993b.png",
+      "format": "PNG",
+      "width": 1218,
+      "height": 793,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI058/0237be5db3c812539b.png",
+      "format": "PNG",
+      "width": 792,
+      "height": 411,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI058/7a7ae79151e15ec8e5.png",
+      "format": "PNG",
+      "width": 879,
+      "height": 279,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI058/f93fcbf7e9125cb65e.png",
+      "format": "PNG",
+      "width": 824,
+      "height": 99,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI058/31f6d1b24e4d93aaf7.png",
+      "format": "PNG",
+      "width": 1082,
+      "height": 694,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI058/2ea55b6900b2558a1f.png",
+      "format": "PNG",
+      "width": 1268,
+      "height": 771,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI058/481444395b0c639a90.png",
+      "format": "PNG",
+      "width": 437,
+      "height": 413,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI058/0714f7640f6f40af2e.png",
+      "format": "PNG",
+      "width": 875,
+      "height": 552,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI058/4150065abbacfc1f83.png",
+      "format": "PNG",
+      "width": 685,
+      "height": 358,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI058/0cf5b8bffc1f5d27db.png",
+      "format": "PNG",
+      "width": 867,
+      "height": 546,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI058/4117d74a24462e6798.png",
+      "format": "PNG",
+      "width": 786,
+      "height": 747,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI058/02857a78f327c1a084.png",
+      "format": "PNG",
+      "width": 581,
+      "height": 658,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI058/c24036a95aee75b7f4.png",
+      "format": "PNG",
+      "width": 893,
+      "height": 349,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI058/0c903d60fcec1e26b6.png",
+      "format": "PNG",
+      "width": 1310,
+      "height": 774,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI058/d061d52873997c04f4.png",
+      "format": "PNG",
+      "width": 1018,
+      "height": 483,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI058/424bba303f1d5b4582.png",
+      "format": "PNG",
+      "width": 1372,
+      "height": 759,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI058/37b8b7703c57597f10.png",
+      "format": "PNG",
+      "width": 1436,
+      "height": 804,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI058/887bc33683d4d31ea1.png",
+      "format": "PNG",
+      "width": 438,
+      "height": 395,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI058/155a3efdc93b225373.png",
+      "format": "PNG",
+      "width": 418,
+      "height": 408,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI058/22aa6e63e2466f0eb7.png",
+      "format": "PNG",
+      "width": 1438,
+      "height": 793,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI058/dec5fb0fe4ec26af4f.png",
+      "format": "PNG",
+      "width": 1044,
+      "height": 290,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI058/32c07047e3475eb481.png",
+      "format": "PNG",
+      "width": 1238,
+      "height": 907,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI058/87126b588bb2ceb0e0.png",
+      "format": "PNG",
+      "width": 812,
+      "height": 484,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI058/398ea635b3f19e87e3.png",
+      "format": "PNG",
+      "width": 666,
+      "height": 483,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI058/29057d5d3cfc1c9248.png",
+      "format": "PNG",
+      "width": 712,
+      "height": 666,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI058/2bb8f8e86602c6a263.png",
+      "format": "PNG",
+      "width": 1415,
+      "height": 804,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI058/4fe50f2aeca034f7a3.png",
+      "format": "PNG",
+      "width": 869,
+      "height": 561,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI058/67ae465651399dd063.png",
+      "format": "PNG",
+      "width": 1268,
+      "height": 366,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI058/5dcccb2d6b9ab6a719.png",
+      "format": "PNG",
+      "width": 1259,
+      "height": 640,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI058/188844a19bfcf4399b.png",
+      "format": "PNG",
+      "width": 1258,
+      "height": 686,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI058/02a07940f121baec00.png",
+      "format": "PNG",
+      "width": 858,
+      "height": 667,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI058/6d3c86da49d9234fbc.png",
+      "format": "PNG",
+      "width": 859,
+      "height": 666,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI059/86bde3c04533045b09.png",
+      "format": "PNG",
+      "width": 1439,
+      "height": 577,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI059/34ab477ce48c86a87a.png",
+      "format": "PNG",
+      "width": 387,
+      "height": 280,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI059/b9afb38e57e0b5c2e0.png",
+      "format": "PNG",
+      "width": 1440,
+      "height": 528,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI059/04da93af8c0c2fadbf.png",
+      "format": "PNG",
+      "width": 1200,
+      "height": 804,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI059/25c4c59596faad3632.png",
+      "format": "PNG",
+      "width": 1440,
+      "height": 547,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI059/e2ca278fd0c8a948cc.png",
+      "format": "PNG",
+      "width": 1440,
+      "height": 682,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI059/7535b76842db7f4903.gif",
+      "format": "GIF",
+      "width": 1106,
+      "height": 353,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI059/77861f40fd79f4fd2a.png",
+      "format": "PNG",
+      "width": 1439,
+      "height": 720,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI059/745fdce45a3658bf14.png",
+      "format": "PNG",
+      "width": 1440,
+      "height": 766,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI059/4880da4b17fcd206fd.png",
+      "format": "PNG",
+      "width": 1440,
+      "height": 792,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI059/b3406859e8d07e4300.png",
+      "format": "PNG",
+      "width": 1440,
+      "height": 483,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI059/14415843b203400cbc.png",
+      "format": "PNG",
+      "width": 1440,
+      "height": 654,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI059/b3241051abb5544fcb.png",
+      "format": "PNG",
+      "width": 1440,
+      "height": 731,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI059/e12af28b096f5a8e63.gif",
+      "format": "GIF",
+      "width": 1435,
+      "height": 719,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI059/d1803829385ee672a8.gif",
+      "format": "GIF",
+      "width": 1435,
+      "height": 719,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI059/3f1a20640da890820e.png",
+      "format": "PNG",
+      "width": 990,
+      "height": 571,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI059/8af393c6e1520ebc12.png",
+      "format": "PNG",
+      "width": 974,
+      "height": 565,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI059/c1be2ce9ce4e81dc35.png",
+      "format": "PNG",
+      "width": 1440,
+      "height": 636,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI059/7b490b0366acf2e2c8.png",
+      "format": "PNG",
+      "width": 1440,
+      "height": 680,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI059/cd28a43c6c88077293.png",
+      "format": "PNG",
+      "width": 1440,
+      "height": 799,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI059/5526d195dbc312a9e5.png",
+      "format": "PNG",
+      "width": 1440,
+      "height": 782,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI059/c59c941107629f3728.png",
+      "format": "PNG",
+      "width": 1440,
+      "height": 768,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI059/16db11b6e5d51c2a7a.png",
+      "format": "PNG",
+      "width": 1261,
+      "height": 737,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI059/b57459d89813173aae.png",
+      "format": "PNG",
+      "width": 1440,
+      "height": 743,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI059/cd7bae16319151a0b1.png",
+      "format": "PNG",
+      "width": 1021,
+      "height": 446,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI059/4b9bf794f59d4c33d3.png",
+      "format": "PNG",
+      "width": 1440,
+      "height": 750,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI059/b988ad1c94ff7e1267.png",
+      "format": "PNG",
+      "width": 444,
+      "height": 237,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI059/fb2ddec2acb520d9a7.png",
+      "format": "PNG",
+      "width": 1440,
+      "height": 389,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI059/0912d91c4aaf7bd770.png",
+      "format": "PNG",
+      "width": 1440,
+      "height": 688,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI059/e0c7cf89bd8d19d51b.png",
+      "format": "PNG",
+      "width": 1440,
+      "height": 796,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI059/9fe2a7a166e9f45253.png",
+      "format": "PNG",
+      "width": 1440,
+      "height": 802,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI059/16c3a224f34afc4794.png",
+      "format": "PNG",
+      "width": 1440,
+      "height": 780,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI059/73762fd26dc08bed5e.png",
+      "format": "PNG",
+      "width": 1440,
+      "height": 700,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI059/58eea9d8701df9ce35.png",
+      "format": "PNG",
+      "width": 1439,
+      "height": 534,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI059/3379bc2a0673c0ea83.png",
+      "format": "PNG",
+      "width": 1440,
+      "height": 393,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI059/5d2d4be7b0f92b9881.png",
+      "format": "PNG",
+      "width": 1440,
+      "height": 430,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI059/173e37c9347af6a419.png",
+      "format": "PNG",
+      "width": 1440,
+      "height": 395,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI059/40e4751a579a327f40.png",
+      "format": "PNG",
+      "width": 1440,
+      "height": 697,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI059/3773bdb615eb41ab99.png",
+      "format": "PNG",
+      "width": 1440,
+      "height": 745,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI059/cfad7167f0dd5cbc48.png",
+      "format": "PNG",
+      "width": 1440,
+      "height": 707,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI059/2973740274bb30c38e.png",
+      "format": "PNG",
+      "width": 1440,
+      "height": 760,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI059/5887de134df7c77807.png",
+      "format": "PNG",
+      "width": 1440,
+      "height": 776,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI059/44d3fee4c2d341ce4d.png",
+      "format": "PNG",
+      "width": 1440,
+      "height": 778,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI059/3f8111b7cc4a62ce4a.png",
+      "format": "PNG",
+      "width": 1440,
+      "height": 788,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI059/e452061e310bff3bdf.png",
+      "format": "PNG",
+      "width": 1440,
+      "height": 765,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI059/b4fa8e77b6cf5d123a.png",
+      "format": "PNG",
+      "width": 1440,
+      "height": 771,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI059/f92e279269dcc1763a.png",
+      "format": "PNG",
+      "width": 1440,
+      "height": 787,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI059/949ae73da2cf5e5c0f.png",
+      "format": "PNG",
+      "width": 1440,
+      "height": 725,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI059/f5d75200d3c7f54c35.png",
+      "format": "PNG",
+      "width": 1440,
+      "height": 708,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI059/f6943ab59c81083660.png",
+      "format": "PNG",
+      "width": 1440,
+      "height": 678,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI059/1fac52345f666192dc.png",
+      "format": "PNG",
+      "width": 1440,
+      "height": 764,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI059/c7b869e9f1fe77139f.gif",
+      "format": "GIF",
+      "width": 1438,
+      "height": 692,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI059/229399d5c5d4902ee3.png",
+      "format": "PNG",
+      "width": 1440,
+      "height": 792,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI059/1cb73af3742419cb9d.png",
+      "format": "PNG",
+      "width": 1440,
+      "height": 562,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI059/2c83e5abd07103218b.png",
+      "format": "PNG",
+      "width": 901,
+      "height": 470,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI059/46915537d7bf424ccc.png",
+      "format": "PNG",
+      "width": 1440,
+      "height": 762,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI059/aa18583eee4325ab5b.png",
+      "format": "PNG",
+      "width": 1440,
+      "height": 733,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI059/4c5ac4037f3c1c4eda.png",
+      "format": "PNG",
+      "width": 1440,
+      "height": 772,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI059/e43ba0c9c361da1730.png",
+      "format": "PNG",
+      "width": 1440,
+      "height": 551,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI059/c860cef6eca7bcee65.png",
+      "format": "PNG",
+      "width": 1222,
+      "height": 226,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI059/048a3ddf425ca5e991.png",
+      "format": "PNG",
+      "width": 1440,
+      "height": 670,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI059/454795af7b68bf06f2.png",
+      "format": "PNG",
+      "width": 1076,
+      "height": 485,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI060/54dac301e95db4fdb6.png",
+      "format": "PNG",
+      "width": 1999,
+      "height": 793,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI060/c42e39a0ec854ca260.png",
+      "format": "PNG",
+      "width": 3874,
+      "height": 1780,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI060/87353f3e2d1915578c.png",
+      "format": "PNG",
+      "width": 1354,
+      "height": 486,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI060/e84b2b19e590ea2bf3.png",
+      "format": "PNG",
+      "width": 3642,
+      "height": 1466,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI060/180d65e0a9196570e2.png",
+      "format": "PNG",
+      "width": 1954,
+      "height": 810,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI060/fcbd2c04e209464150.png",
+      "format": "PNG",
+      "width": 1740,
+      "height": 780,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI060/727ddf89542ef63e0c.png",
+      "format": "PNG",
+      "width": 2786,
+      "height": 518,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI060/43d4def41a6a8a189b.png",
+      "format": "PNG",
+      "width": 1674,
+      "height": 642,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI060/aa095f40b1c52ffa85.png",
+      "format": "PNG",
+      "width": 1275,
+      "height": 750,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI060/20f1ff6ba8bc539a17.png",
+      "format": "PNG",
+      "width": 1500,
+      "height": 678,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI060/66755ce90125cc263f.png",
+      "format": "PNG",
+      "width": 1242,
+      "height": 1570,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI060/2cf00e3548b5660bf9.png",
+      "format": "PNG",
+      "width": 2150,
+      "height": 816,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI061/41a09a8696808ecce0.png",
+      "format": "PNG",
+      "width": 3416,
+      "height": 2362,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI061/e78e0ba4b34cda911a.png",
+      "format": "PNG",
+      "width": 3832,
+      "height": 1348,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI061/8f6527c6c3694c587d.png",
+      "format": "PNG",
+      "width": 2294,
+      "height": 580,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI061/ea3831d82b483995f8.png",
+      "format": "PNG",
+      "width": 1710,
+      "height": 1112,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI061/2a1b7652ba6cc48a12.png",
+      "format": "PNG",
+      "width": 2148,
+      "height": 1450,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI061/457cd3bc047052c18a.png",
+      "format": "PNG",
+      "width": 4094,
+      "height": 2542,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI061/7b1d616dab0a8609f1.png",
+      "format": "PNG",
+      "width": 2448,
+      "height": 604,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI061/feaad52a803d77f9d8.png",
+      "format": "PNG",
+      "width": 1548,
+      "height": 782,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI061/d3eae5a72206efa485.png",
+      "format": "PNG",
+      "width": 1694,
+      "height": 1220,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI061/f63895c8c6c047926f.png",
+      "format": "PNG",
+      "width": 1202,
+      "height": 490,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI061/cf193ab727b4044922.png",
+      "format": "PNG",
+      "width": 2910,
+      "height": 682,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI061/7865196e2489fc001d.png",
+      "format": "PNG",
+      "width": 1320,
+      "height": 1028,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI061/364a0fd3015ab3fcac.png",
+      "format": "PNG",
+      "width": 2092,
+      "height": 1042,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI061/34e80819222058397d.png",
+      "format": "PNG",
+      "width": 1370,
+      "height": 466,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI061/92f9487fb8e9f97c51.png",
+      "format": "PNG",
+      "width": 2060,
+      "height": 920,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI061/7726aba941acd21dd1.png",
+      "format": "PNG",
+      "width": 1622,
+      "height": 1080,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI061/7ca77e5b5a81baabf9.png",
+      "format": "PNG",
+      "width": 1220,
+      "height": 632,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI061/b56eeacd975c488122.png",
+      "format": "PNG",
+      "width": 819,
+      "height": 700,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/9c84c2badc9dfe4f9a.jpeg",
+      "format": "JPEG",
+      "width": 36,
+      "height": 36,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/4aa796c6659453f9e3.png",
+      "format": "JPEG",
+      "width": 1456,
+      "height": 1016,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/2ae0d9278610863113.png",
+      "format": "JPEG",
+      "width": 140,
+      "height": 140,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/2b0599111e96bd10e4.png",
+      "format": "PNG",
+      "width": 1023,
+      "height": 474,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/81d1b7945447783f5b.png",
+      "format": "JPEG",
+      "width": 1456,
+      "height": 806,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/e62f65fcd5b0452783.png",
+      "format": "JPEG",
+      "width": 903,
+      "height": 856,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/527b3af738d85b32fb.png",
+      "format": "PNG",
+      "width": 1304,
+      "height": 822,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/073964ab296cdb9f92.png",
+      "format": "JPEG",
+      "width": 1039,
+      "height": 569,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/63bc3f18bd4c33a94a.png",
+      "format": "JPEG",
+      "width": 1027,
+      "height": 823,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/7cdf971b8b7edb92dc.png",
+      "format": "PNG",
+      "width": 1444,
+      "height": 789,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/fffe6402f723cb41a5.png",
+      "format": "JPEG",
+      "width": 1289,
+      "height": 407,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/0ef4f4b7293dd9c0a2.png",
+      "format": "PNG",
+      "width": 1329,
+      "height": 737,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/9a7c3a27d3db37d66e.png",
+      "format": "JPEG",
+      "width": 665,
+      "height": 302,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/8b58d112146406c0d6.png",
+      "format": "JPEG",
+      "width": 1456,
+      "height": 721,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/e82aa4f3eff6609ea2.png",
+      "format": "PNG",
+      "width": 1456,
+      "height": 434,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/4c4547c584f3c51654.png",
+      "format": "PNG",
+      "width": 1068,
+      "height": 855,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/3a853c1570bc5f0dc4.png",
+      "format": "PNG",
+      "width": 662,
+      "height": 483,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/d690b7401d0c307aa2.png",
+      "format": "PNG",
+      "width": 1402,
+      "height": 757,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/cf1432bc95c6b80842.png",
+      "format": "JPEG",
+      "width": 1456,
+      "height": 749,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/86c5ccef112c78b5c5.png",
+      "format": "JPEG",
+      "width": 1456,
+      "height": 919,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/efbc19fcae1ef280b4.png",
+      "format": "JPEG",
+      "width": 1456,
+      "height": 723,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/2ce186ca92b40f80c8.png",
+      "format": "JPEG",
+      "width": 743,
+      "height": 519,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/d6be9aac891acf3c80.png",
+      "format": "PNG",
+      "width": 1447,
+      "height": 770,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/750e281c5d2fd6e3a1.png",
+      "format": "JPEG",
+      "width": 1190,
+      "height": 548,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/a3f16223736fc06cb3.png",
+      "format": "JPEG",
+      "width": 1364,
+      "height": 800,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/8f269bbd07677834df.png",
+      "format": "JPEG",
+      "width": 759,
+      "height": 684,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/82a032f8798aa06f0f.png",
+      "format": "JPEG",
+      "width": 1456,
+      "height": 743,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/600852a2bd2e852889.jpeg",
+      "format": "JPEG",
+      "width": 1456,
+      "height": 1456,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/879f6e705e3570293b.png",
+      "format": "JPEG",
+      "width": 140,
+      "height": 140,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/6f90f09cc77c4c4f1b.png",
+      "format": "JPEG",
+      "width": 1456,
+      "height": 703,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/d7bb9c3fe0bf4c3135.png",
+      "format": "JPEG",
+      "width": 1456,
+      "height": 750,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/ca9a9cf1c0ec519da8.png",
+      "format": "JPEG",
+      "width": 1046,
+      "height": 565,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/3801291b95305b7409.png",
+      "format": "JPEG",
+      "width": 1221,
+      "height": 352,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/476ea6c56db8ef7661.png",
+      "format": "JPEG",
+      "width": 307,
+      "height": 151,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/6408b09a383e342587.png",
+      "format": "JPEG",
+      "width": 1064,
+      "height": 754,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/fce5dc45927332619f.png",
+      "format": "JPEG",
+      "width": 1456,
+      "height": 795,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/b0e1d3dc3182e03b37.jpeg",
+      "format": "JPEG",
+      "width": 1456,
+      "height": 1030,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/b39adb9a26c83cd504.png",
+      "format": "JPEG",
+      "width": 1456,
+      "height": 806,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/8bca24365647f26e26.png",
+      "format": "JPEG",
+      "width": 1456,
+      "height": 795,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/e4a0312b875751f789.png",
+      "format": "JPEG",
+      "width": 1456,
+      "height": 983,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/7ae0ef965a5460ff64.png",
+      "format": "JPEG",
+      "width": 1456,
+      "height": 603,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/5ccaba45bd4ef7f16f.png",
+      "format": "PNG",
+      "width": 1456,
+      "height": 553,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/a3159c93794c999eb6.png",
+      "format": "JPEG",
+      "width": 1456,
+      "height": 801,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/c6f1361fdb6171542e.png",
+      "format": "JPEG",
+      "width": 140,
+      "height": 140,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/7ab112782e1a8864ed.png",
+      "format": "PNG",
+      "width": 793,
+      "height": 831,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/c871513b5961eafd17.png",
+      "format": "PNG",
+      "width": 948,
+      "height": 362,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/8007ce99c1cfdd3841.png",
+      "format": "JPEG",
+      "width": 1456,
+      "height": 961,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/fcc605d094c1afaa2a.png",
+      "format": "JPEG",
+      "width": 718,
+      "height": 600,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/178663c97fc9bfb13f.png",
+      "format": "JPEG",
+      "width": 1456,
+      "height": 802,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/c9d55c0e3aaa7dd56a.png",
+      "format": "JPEG",
+      "width": 1456,
+      "height": 807,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/692588ad14f7bf2ebf.png",
+      "format": "JPEG",
+      "width": 1456,
+      "height": 1456,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/82c60e66bb359a7406.png",
+      "format": "JPEG",
+      "width": 1456,
+      "height": 489,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/f68c1b8f6c397dffb5.png",
+      "format": "JPEG",
+      "width": 1456,
+      "height": 792,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/ba090087f68c03bf8b.png",
+      "format": "JPEG",
+      "width": 140,
+      "height": 140,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/2a7ed3b43135d2399e.png",
+      "format": "JPEG",
+      "width": 1456,
+      "height": 824,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/510e8a9d767aa5d7ea.png",
+      "format": "JPEG",
+      "width": 1456,
+      "height": 719,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/38f7bdfaec8dabccab.png",
+      "format": "JPEG",
+      "width": 1456,
+      "height": 1425,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/b0090b5290a2461ef7.jpeg",
+      "format": "JPEG",
+      "width": 140,
+      "height": 140,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/29b070db2e5ba70c8f.png",
+      "format": "JPEG",
+      "width": 1456,
+      "height": 913,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/e9d210362e50ff174c.png",
+      "format": "JPEG",
+      "width": 1456,
+      "height": 1295,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/251bbf9a33bd6db876.png",
+      "format": "JPEG",
+      "width": 1456,
+      "height": 701,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/3c8601244271642c57.png",
+      "format": "JPEG",
+      "width": 1456,
+      "height": 690,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/d7eb288c70bffa5e77.png",
+      "format": "JPEG",
+      "width": 1456,
+      "height": 1498,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/36362a9ce698adb644.png",
+      "format": "JPEG",
+      "width": 1456,
+      "height": 730,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/e8fb654c117e118094.png",
+      "format": "PNG",
+      "width": 1426,
+      "height": 940,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/2316f3db00051e0826.png",
+      "format": "JPEG",
+      "width": 1456,
+      "height": 733,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/a88ac5a8efe6f93ece.png",
+      "format": "JPEG",
+      "width": 1456,
+      "height": 1492,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/2eefa2869f19151c7e.png",
+      "format": "JPEG",
+      "width": 1300,
+      "height": 650,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/1ae9fe6f96f151ba6b.png",
+      "format": "JPEG",
+      "width": 1456,
+      "height": 719,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/5a956c7f51e2f7d1c1.png",
+      "format": "JPEG",
+      "width": 140,
+      "height": 140,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/d55b6b6ffd52f623c4.png",
+      "format": "PNG",
+      "width": 1456,
+      "height": 832,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/9c58fd9fb2a4d6455b.png",
+      "format": "JPEG",
+      "width": 1456,
+      "height": 733,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/e4dc986400e413e371.png",
+      "format": "PNG",
+      "width": 1456,
+      "height": 863,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/b17b03703791a2fa25.webp",
+      "format": "JPEG",
+      "width": 1456,
+      "height": 1248,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI062/fddd7415077ca40fb7.webp",
+      "format": "JPEG",
+      "width": 1456,
+      "height": 726,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI063/d0b5597b3cccae1663.webp",
+      "format": "WEBP",
+      "width": 1400,
+      "height": 649,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI063/ff1c150a9b536004d1.png",
+      "format": "PNG",
+      "width": 1728,
+      "height": 594,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI063/b78ae19f79ecf033e7.png",
+      "format": "JPEG",
+      "width": 2180,
+      "height": 1668,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI063/68dbaa11bbe933371c.png",
+      "format": "JPEG",
+      "width": 2387,
+      "height": 1410,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI063/6a4e55646f98c37d71.png",
+      "format": "PNG",
+      "width": 1028,
+      "height": 710,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI063/0ae81fe6def48b89ed.png",
+      "format": "PNG",
+      "width": 1068,
+      "height": 382,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI063/5d964cb5d2504e724a.png",
+      "format": "JPEG",
+      "width": 2196,
+      "height": 1668,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI063/84e65318066b94746a.png",
+      "format": "JPEG",
+      "width": 1645,
+      "height": 1668,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI063/48530c2f024e5877b1.png",
+      "format": "JPEG",
+      "width": 1650,
+      "height": 1668,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI063/ed8f019bc4815f9507.png",
+      "format": "PNG",
+      "width": 907,
+      "height": 278,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI063/42a2f8d1fa9d6054dd.png",
+      "format": "PNG",
+      "width": 3101,
+      "height": 1439,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI063/d3cd4720b237a0997b.png",
+      "format": "PNG",
+      "width": 1212,
+      "height": 284,
+      "parsed": true
+    },
+    {
+      "path": "original_file/blogs/assets/AI063/b0ce742f4047035da2.png",
+      "format": "PNG",
+      "width": 1622,
+      "height": 278,
+      "parsed": true
+    }
+  ],
+  "articles": [
+    {
+      "source_id": "AI001",
+      "source_tables": 1,
+      "reader_tables": 1,
+      "table_cells_text_order_and_merge_markup_match": true,
+      "source_headings": 12,
+      "reader_headings": 11,
+      "local_image_references": 8,
+      "recorded_remote_images": 0,
+      "full_visual_audit": false
+    },
+    {
+      "source_id": "AI002",
+      "source_tables": 2,
+      "reader_tables": 2,
+      "table_cells_text_order_and_merge_markup_match": true,
+      "source_headings": 8,
+      "reader_headings": 7,
+      "local_image_references": 6,
+      "recorded_remote_images": 0,
+      "full_visual_audit": false
+    },
+    {
+      "source_id": "AI058",
+      "source_tables": 1,
+      "reader_tables": 1,
+      "table_cells_text_order_and_merge_markup_match": true,
+      "source_headings": 17,
+      "reader_headings": 16,
+      "local_image_references": 35,
+      "recorded_remote_images": 2,
+      "full_visual_audit": false
+    },
+    {
+      "source_id": "AI059",
+      "source_tables": 0,
+      "reader_tables": 0,
+      "table_cells_text_order_and_merge_markup_match": true,
+      "source_headings": 43,
+      "reader_headings": 42,
+      "local_image_references": 63,
+      "recorded_remote_images": 2,
+      "full_visual_audit": false
+    },
+    {
+      "source_id": "AI060",
+      "source_tables": 0,
+      "reader_tables": 0,
+      "table_cells_text_order_and_merge_markup_match": true,
+      "source_headings": 16,
+      "reader_headings": 15,
+      "local_image_references": 12,
+      "recorded_remote_images": 1,
+      "full_visual_audit": false
+    },
+    {
+      "source_id": "AI061",
+      "source_tables": 0,
+      "reader_tables": 0,
+      "table_cells_text_order_and_merge_markup_match": true,
+      "source_headings": 21,
+      "reader_headings": 20,
+      "local_image_references": 18,
+      "recorded_remote_images": 1,
+      "full_visual_audit": false
+    },
+    {
+      "source_id": "AI062",
+      "source_tables": 0,
+      "reader_tables": 0,
+      "table_cells_text_order_and_merge_markup_match": true,
+      "source_headings": 66,
+      "reader_headings": 63,
+      "local_image_references": 76,
+      "recorded_remote_images": 0,
+      "full_visual_audit": false
+    },
+    {
+      "source_id": "AI063",
+      "source_tables": 1,
+      "reader_tables": 1,
+      "table_cells_text_order_and_merge_markup_match": true,
+      "source_headings": 8,
+      "reader_headings": 8,
+      "local_image_references": 13,
+      "recorded_remote_images": 0,
+      "full_visual_audit": false
+    }
+  ],
+  "links": [
+    {
+      "from": "ALGORITHMS/README.md",
+      "target": "sources/README.md",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/README.md",
+      "target": "../sources.md",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/README.md",
+      "target": "../materials-reading-guide.md",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/README.md",
+      "target": "sources/AI058-illustrated-transformer.md",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/README.md",
+      "target": "sources/AI003-attention-is-all-you-need.md",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/README.md",
+      "target": "sources/AI014-roformer.md",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/README.md",
+      "target": "sources/AI013-gqa.md",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/README.md",
+      "target": "sources/AI008-switch-transformer.md",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/README.md",
+      "target": "sources/AI007-mamba.md",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/README.md",
+      "target": "sources/AI005-adam.md",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/README.md",
+      "target": "sources/AI009-lora.md",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/README.md",
+      "target": "sources/AI010-knowledge-distillation.md",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/README.md",
+      "target": "sources/AI012-gptq.md",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/README.md",
+      "target": "sources/AI011-awq.md",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/README.md",
+      "target": "sources/AI004-resnet.md",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/README.md",
+      "target": "sources/AI006-ddpm.md",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/README.md",
+      "target": "sources/AI061-lilian-diffusion.md",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/README.md",
+      "target": "sources/AI064-su-rope.md",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/README.md",
+      "target": "../MODELS/README.md",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/README.md",
+      "target": "../TRAINING_INFERENCE/README.md",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/README.md",
+      "target": "../EDGE_AI/README.md",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/sources/AI003-attention-is-all-you-need.md",
+      "target": "../README.md",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/sources/AI003-attention-is-all-you-need.md",
+      "target": "../../original_file/papers/AI003-attention-is-all-you-need.metadata.html",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/sources/AI003-attention-is-all-you-need.md",
+      "target": "../../original_file/papers/AI003-attention-is-all-you-need.pdf",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/sources/AI003-attention-is-all-you-need.md",
+      "target": "README.md",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/sources/AI003-attention-is-all-you-need.md",
+      "target": "../../sources.md",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/sources/AI004-resnet.md",
+      "target": "../README.md",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/sources/AI004-resnet.md",
+      "target": "../../original_file/papers/AI004-resnet.metadata.html",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/sources/AI004-resnet.md",
+      "target": "../../original_file/papers/AI004-resnet.pdf",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/sources/AI004-resnet.md",
+      "target": "README.md",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/sources/AI004-resnet.md",
+      "target": "../../sources.md",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/sources/AI005-adam.md",
+      "target": "../README.md",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/sources/AI005-adam.md",
+      "target": "../../original_file/papers/AI005-adam.metadata.html",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/sources/AI005-adam.md",
+      "target": "../../original_file/papers/AI005-adam.pdf",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/sources/AI005-adam.md",
+      "target": "README.md",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/sources/AI005-adam.md",
+      "target": "../../sources.md",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/sources/AI006-ddpm.md",
+      "target": "../README.md",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/sources/AI006-ddpm.md",
+      "target": "../../original_file/papers/AI006-ddpm.metadata.html",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/sources/AI006-ddpm.md",
+      "target": "../../original_file/papers/AI006-ddpm.pdf",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/sources/AI006-ddpm.md",
+      "target": "README.md",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/sources/AI006-ddpm.md",
+      "target": "../../sources.md",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/sources/AI007-mamba.md",
+      "target": "../README.md",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/sources/AI007-mamba.md",
+      "target": "../../original_file/papers/AI007-mamba.metadata.html",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/sources/AI007-mamba.md",
+      "target": "../../original_file/papers/AI007-mamba.pdf",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/sources/AI007-mamba.md",
+      "target": "README.md",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/sources/AI007-mamba.md",
+      "target": "../../sources.md",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/sources/AI008-switch-transformer.md",
+      "target": "../README.md",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/sources/AI008-switch-transformer.md",
+      "target": "../../original_file/papers/AI008-switch-transformer.metadata.html",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/sources/AI008-switch-transformer.md",
+      "target": "../../original_file/papers/AI008-switch-transformer.pdf",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/sources/AI008-switch-transformer.md",
+      "target": "../../MODELS/sources/AI016-deepseek-v3.md",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/sources/AI008-switch-transformer.md",
+      "target": "../../MODELS/sources/AI015-qwen3.md",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/sources/AI008-switch-transformer.md",
+      "target": "README.md",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/sources/AI008-switch-transformer.md",
+      "target": "../../sources.md",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/sources/AI009-lora.md",
+      "target": "../README.md",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/sources/AI009-lora.md",
+      "target": "../../original_file/papers/AI009-lora.metadata.html",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/sources/AI009-lora.md",
+      "target": "../../original_file/papers/AI009-lora.pdf",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/sources/AI009-lora.md",
+      "target": "README.md",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/sources/AI009-lora.md",
+      "target": "../../sources.md",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/sources/AI010-knowledge-distillation.md",
+      "target": "../README.md",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/sources/AI010-knowledge-distillation.md",
+      "target": "../../original_file/papers/AI010-knowledge-distillation.metadata.html",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/sources/AI010-knowledge-distillation.md",
+      "target": "../../original_file/papers/AI010-knowledge-distillation.pdf",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/sources/AI010-knowledge-distillation.md",
+      "target": "../../MODELS/sources/AI017-deepseek-r1.md",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/sources/AI010-knowledge-distillation.md",
+      "target": "../../EDGE_AI/sources/AI043-mobilellm.md",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/sources/AI010-knowledge-distillation.md",
+      "target": "README.md",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/sources/AI010-knowledge-distillation.md",
+      "target": "../../sources.md",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/sources/AI011-awq.md",
+      "target": "../README.md",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/sources/AI011-awq.md",
+      "target": "../../original_file/papers/AI011-awq.metadata.html",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/sources/AI011-awq.md",
+      "target": "../../original_file/papers/AI011-awq.pdf",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/sources/AI011-awq.md",
+      "target": "AI012-gptq.md",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/sources/AI011-awq.md",
+      "target": "../../EDGE_AI/sources/AI048-llama-cpp.md",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/sources/AI011-awq.md",
+      "target": "README.md",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/sources/AI011-awq.md",
+      "target": "../../sources.md",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/sources/AI012-gptq.md",
+      "target": "../README.md",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/sources/AI012-gptq.md",
+      "target": "../../original_file/papers/AI012-gptq.metadata.html",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/sources/AI012-gptq.md",
+      "target": "../../original_file/papers/AI012-gptq.pdf",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/sources/AI012-gptq.md",
+      "target": "AI011-awq.md",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/sources/AI012-gptq.md",
+      "target": "README.md",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/sources/AI012-gptq.md",
+      "target": "../../sources.md",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/sources/AI013-gqa.md",
+      "target": "../README.md",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/sources/AI013-gqa.md",
+      "target": "../../original_file/papers/AI013-gqa.metadata.html",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/sources/AI013-gqa.md",
+      "target": "../../original_file/papers/AI013-gqa.pdf",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/sources/AI013-gqa.md",
+      "target": "../../MODELS/sources/AI015-qwen3.md",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/sources/AI013-gqa.md",
+      "target": "../../MODELS/sources/AI018-llama3.md",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/sources/AI013-gqa.md",
+      "target": "README.md",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/sources/AI013-gqa.md",
+      "target": "../../sources.md",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/sources/AI014-roformer.md",
+      "target": "../README.md",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/sources/AI014-roformer.md",
+      "target": "../../original_file/papers/AI014-roformer.metadata.html",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/sources/AI014-roformer.md",
+      "target": "../../original_file/papers/AI014-roformer.pdf",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/sources/AI014-roformer.md",
+      "target": "README.md",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/sources/AI014-roformer.md",
+      "target": "../../sources.md",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/sources/AI058-illustrated-transformer.md",
+      "target": "../README.md",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/sources/AI058-illustrated-transformer.md",
+      "target": "../../original_file/blogs/AI058-illustrated-transformer.reader.html",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/sources/AI058-illustrated-transformer.md",
+      "target": "../../original_file/blogs/AI058-illustrated-transformer.html",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/sources/AI058-illustrated-transformer.md",
+      "target": "../../source-reading-audit.md",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/sources/AI058-illustrated-transformer.md",
+      "target": "AI003-attention-is-all-you-need.md",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/sources/AI058-illustrated-transformer.md",
+      "target": "README.md",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/sources/AI058-illustrated-transformer.md",
+      "target": "../../sources.md",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/sources/AI061-lilian-diffusion.md",
+      "target": "../README.md",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/sources/AI061-lilian-diffusion.md",
+      "target": "../../original_file/blogs/AI061-lilian-diffusion.reader.html",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/sources/AI061-lilian-diffusion.md",
+      "target": "../../original_file/blogs/AI061-lilian-diffusion.html",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/sources/AI061-lilian-diffusion.md",
+      "target": "../../source-reading-audit.md",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/sources/AI061-lilian-diffusion.md",
+      "target": "AI006-ddpm.md",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/sources/AI061-lilian-diffusion.md",
+      "target": "README.md",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/sources/AI061-lilian-diffusion.md",
+      "target": "../../sources.md",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/sources/AI064-su-rope.md",
+      "target": "../README.md",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/sources/AI064-su-rope.md",
+      "target": "../../original_file/pending/AI064-su-rope.url",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/sources/AI064-su-rope.md",
+      "target": "AI014-roformer.md",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/sources/AI064-su-rope.md",
+      "target": "README.md",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/sources/AI064-su-rope.md",
+      "target": "../../sources.md",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/sources/README.md",
+      "target": "AI003-attention-is-all-you-need.md",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/sources/README.md",
+      "target": "AI004-resnet.md",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/sources/README.md",
+      "target": "AI005-adam.md",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/sources/README.md",
+      "target": "AI006-ddpm.md",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/sources/README.md",
+      "target": "AI007-mamba.md",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/sources/README.md",
+      "target": "AI008-switch-transformer.md",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/sources/README.md",
+      "target": "AI009-lora.md",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/sources/README.md",
+      "target": "AI010-knowledge-distillation.md",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/sources/README.md",
+      "target": "AI011-awq.md",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/sources/README.md",
+      "target": "AI012-gptq.md",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/sources/README.md",
+      "target": "AI013-gqa.md",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/sources/README.md",
+      "target": "AI014-roformer.md",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/sources/README.md",
+      "target": "AI058-illustrated-transformer.md",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/sources/README.md",
+      "target": "AI061-lilian-diffusion.md",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/sources/README.md",
+      "target": "AI064-su-rope.md",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/sources/README.md",
+      "target": "../README.md",
+      "exists": true
+    },
+    {
+      "from": "ALGORITHMS/sources/README.md",
+      "target": "../../sources.md",
+      "exists": true
+    },
+    {
+      "from": "APPLICATIONS/README.md",
+      "target": "sources/README.md",
+      "exists": true
+    },
+    {
+      "from": "APPLICATIONS/README.md",
+      "target": "../sources.md",
+      "exists": true
+    },
+    {
+      "from": "APPLICATIONS/README.md",
+      "target": "../materials-reading-guide.md",
+      "exists": true
+    },
+    {
+      "from": "APPLICATIONS/README.md",
+      "target": "sources/AI060-lilian-agents.md",
+      "exists": true
+    },
+    {
+      "from": "APPLICATIONS/README.md",
+      "target": "sources/AI049-rag.md",
+      "exists": true
+    },
+    {
+      "from": "APPLICATIONS/README.md",
+      "target": "sources/AI050-react.md",
+      "exists": true
+    },
+    {
+      "from": "APPLICATIONS/README.md",
+      "target": "sources/AI051-toolformer.md",
+      "exists": true
+    },
+    {
+      "from": "APPLICATIONS/README.md",
+      "target": "sources/AI052-vit.md",
+      "exists": true
+    },
+    {
+      "from": "APPLICATIONS/README.md",
+      "target": "sources/AI053-clip.md",
+      "exists": true
+    },
+    {
+      "from": "APPLICATIONS/README.md",
+      "target": "../MODELS/sources/AI019-qwen25-vl.md",
+      "exists": true
+    },
+    {
+      "from": "APPLICATIONS/README.md",
+      "target": "sources/AI054-whisper.md",
+      "exists": true
+    },
+    {
+      "from": "APPLICATIONS/README.md",
+      "target": "sources/AI057-qwen3-tts.md",
+      "exists": true
+    },
+    {
+      "from": "APPLICATIONS/README.md",
+      "target": "sources/AI055-dlrm.md",
+      "exists": true
+    },
+    {
+      "from": "APPLICATIONS/README.md",
+      "target": "sources/AI056-rt2.md",
+      "exists": true
+    },
+    {
+      "from": "APPLICATIONS/README.md",
+      "target": "../MODELS/README.md",
+      "exists": true
+    },
+    {
+      "from": "APPLICATIONS/README.md",
+      "target": "../TRAINING_INFERENCE/README.md",
+      "exists": true
+    },
+    {
+      "from": "APPLICATIONS/README.md",
+      "target": "../CLOUD_ACCELERATORS/README.md",
+      "exists": true
+    },
+    {
+      "from": "APPLICATIONS/sources/AI049-rag.md",
+      "target": "../README.md",
+      "exists": true
+    },
+    {
+      "from": "APPLICATIONS/sources/AI049-rag.md",
+      "target": "../../original_file/papers/AI049-rag.metadata.html",
+      "exists": true
+    },
+    {
+      "from": "APPLICATIONS/sources/AI049-rag.md",
+      "target": "../../original_file/papers/AI049-rag.pdf",
+      "exists": true
+    },
+    {
+      "from": "APPLICATIONS/sources/AI049-rag.md",
+      "target": "README.md",
+      "exists": true
+    },
+    {
+      "from": "APPLICATIONS/sources/AI049-rag.md",
+      "target": "../../sources.md",
+      "exists": true
+    },
+    {
+      "from": "APPLICATIONS/sources/AI050-react.md",
+      "target": "../README.md",
+      "exists": true
+    },
+    {
+      "from": "APPLICATIONS/sources/AI050-react.md",
+      "target": "../../original_file/papers/AI050-react.metadata.html",
+      "exists": true
+    },
+    {
+      "from": "APPLICATIONS/sources/AI050-react.md",
+      "target": "../../original_file/papers/AI050-react.pdf",
+      "exists": true
+    },
+    {
+      "from": "APPLICATIONS/sources/AI050-react.md",
+      "target": "AI049-rag.md",
+      "exists": true
+    },
+    {
+      "from": "APPLICATIONS/sources/AI050-react.md",
+      "target": "AI051-toolformer.md",
+      "exists": true
+    },
+    {
+      "from": "APPLICATIONS/sources/AI050-react.md",
+      "target": "README.md",
+      "exists": true
+    },
+    {
+      "from": "APPLICATIONS/sources/AI050-react.md",
+      "target": "../../sources.md",
+      "exists": true
+    },
+    {
+      "from": "APPLICATIONS/sources/AI051-toolformer.md",
+      "target": "../README.md",
+      "exists": true
+    },
+    {
+      "from": "APPLICATIONS/sources/AI051-toolformer.md",
+      "target": "../../original_file/papers/AI051-toolformer.metadata.html",
+      "exists": true
+    },
+    {
+      "from": "APPLICATIONS/sources/AI051-toolformer.md",
+      "target": "../../original_file/papers/AI051-toolformer.pdf",
+      "exists": true
+    },
+    {
+      "from": "APPLICATIONS/sources/AI051-toolformer.md",
+      "target": "AI050-react.md",
+      "exists": true
+    },
+    {
+      "from": "APPLICATIONS/sources/AI051-toolformer.md",
+      "target": "README.md",
+      "exists": true
+    },
+    {
+      "from": "APPLICATIONS/sources/AI051-toolformer.md",
+      "target": "../../sources.md",
+      "exists": true
+    },
+    {
+      "from": "APPLICATIONS/sources/AI052-vit.md",
+      "target": "../README.md",
+      "exists": true
+    },
+    {
+      "from": "APPLICATIONS/sources/AI052-vit.md",
+      "target": "../../original_file/papers/AI052-vit.metadata.html",
+      "exists": true
+    },
+    {
+      "from": "APPLICATIONS/sources/AI052-vit.md",
+      "target": "../../original_file/papers/AI052-vit.pdf",
+      "exists": true
+    },
+    {
+      "from": "APPLICATIONS/sources/AI052-vit.md",
+      "target": "../../ALGORITHMS/sources/AI003-attention-is-all-you-need.md",
+      "exists": true
+    },
+    {
+      "from": "APPLICATIONS/sources/AI052-vit.md",
+      "target": "../../MODELS/sources/AI019-qwen25-vl.md",
+      "exists": true
+    },
+    {
+      "from": "APPLICATIONS/sources/AI052-vit.md",
+      "target": "README.md",
+      "exists": true
+    },
+    {
+      "from": "APPLICATIONS/sources/AI052-vit.md",
+      "target": "../../sources.md",
+      "exists": true
+    },
+    {
+      "from": "APPLICATIONS/sources/AI053-clip.md",
+      "target": "../README.md",
+      "exists": true
+    },
+    {
+      "from": "APPLICATIONS/sources/AI053-clip.md",
+      "target": "../../original_file/papers/AI053-clip.metadata.html",
+      "exists": true
+    },
+    {
+      "from": "APPLICATIONS/sources/AI053-clip.md",
+      "target": "../../original_file/papers/AI053-clip.pdf",
+      "exists": true
+    },
+    {
+      "from": "APPLICATIONS/sources/AI053-clip.md",
+      "target": "AI052-vit.md",
+      "exists": true
+    },
+    {
+      "from": "APPLICATIONS/sources/AI053-clip.md",
+      "target": "../../MODELS/sources/AI019-qwen25-vl.md",
+      "exists": true
+    },
+    {
+      "from": "APPLICATIONS/sources/AI053-clip.md",
+      "target": "README.md",
+      "exists": true
+    },
+    {
+      "from": "APPLICATIONS/sources/AI053-clip.md",
+      "target": "../../sources.md",
+      "exists": true
+    },
+    {
+      "from": "APPLICATIONS/sources/AI054-whisper.md",
+      "target": "../README.md",
+      "exists": true
+    },
+    {
+      "from": "APPLICATIONS/sources/AI054-whisper.md",
+      "target": "../../original_file/papers/AI054-whisper.metadata.html",
+      "exists": true
+    },
+    {
+      "from": "APPLICATIONS/sources/AI054-whisper.md",
+      "target": "../../original_file/papers/AI054-whisper.pdf",
+      "exists": true
+    },
+    {
+      "from": "APPLICATIONS/sources/AI054-whisper.md",
+      "target": "AI057-qwen3-tts.md",
+      "exists": true
+    },
+    {
+      "from": "APPLICATIONS/sources/AI054-whisper.md",
+      "target": "README.md",
+      "exists": true
+    },
+    {
+      "from": "APPLICATIONS/sources/AI054-whisper.md",
+      "target": "../../sources.md",
+      "exists": true
+    },
+    {
+      "from": "APPLICATIONS/sources/AI055-dlrm.md",
+      "target": "../README.md",
+      "exists": true
+    },
+    {
+      "from": "APPLICATIONS/sources/AI055-dlrm.md",
+      "target": "../../original_file/papers/AI055-dlrm.metadata.html",
+      "exists": true
+    },
+    {
+      "from": "APPLICATIONS/sources/AI055-dlrm.md",
+      "target": "../../original_file/papers/AI055-dlrm.pdf",
+      "exists": true
+    },
+    {
+      "from": "APPLICATIONS/sources/AI055-dlrm.md",
+      "target": "../../CLOUD_ACCELERATORS/sources/AI037-tpu-v4.md",
+      "exists": true
+    },
+    {
+      "from": "APPLICATIONS/sources/AI055-dlrm.md",
+      "target": "README.md",
+      "exists": true
+    },
+    {
+      "from": "APPLICATIONS/sources/AI055-dlrm.md",
+      "target": "../../sources.md",
+      "exists": true
+    },
+    {
+      "from": "APPLICATIONS/sources/AI056-rt2.md",
+      "target": "../README.md",
+      "exists": true
+    },
+    {
+      "from": "APPLICATIONS/sources/AI056-rt2.md",
+      "target": "../../original_file/papers/AI056-rt2.metadata.html",
+      "exists": true
+    },
+    {
+      "from": "APPLICATIONS/sources/AI056-rt2.md",
+      "target": "../../original_file/papers/AI056-rt2.pdf",
+      "exists": true
+    },
+    {
+      "from": "APPLICATIONS/sources/AI056-rt2.md",
+      "target": "../../MODELS/sources/AI019-qwen25-vl.md",
+      "exists": true
+    },
+    {
+      "from": "APPLICATIONS/sources/AI056-rt2.md",
+      "target": "AI050-react.md",
+      "exists": true
+    },
+    {
+      "from": "APPLICATIONS/sources/AI056-rt2.md",
+      "target": "README.md",
+      "exists": true
+    },
+    {
+      "from": "APPLICATIONS/sources/AI056-rt2.md",
+      "target": "../../sources.md",
+      "exists": true
+    },
+    {
+      "from": "APPLICATIONS/sources/AI057-qwen3-tts.md",
+      "target": "../README.md",
+      "exists": true
+    },
+    {
+      "from": "APPLICATIONS/sources/AI057-qwen3-tts.md",
+      "target": "../../original_file/papers/AI057-qwen3-tts.metadata.html",
+      "exists": true
+    },
+    {
+      "from": "APPLICATIONS/sources/AI057-qwen3-tts.md",
+      "target": "../../original_file/papers/AI057-qwen3-tts.pdf",
+      "exists": true
+    },
+    {
+      "from": "APPLICATIONS/sources/AI057-qwen3-tts.md",
+      "target": "AI054-whisper.md",
+      "exists": true
+    },
+    {
+      "from": "APPLICATIONS/sources/AI057-qwen3-tts.md",
+      "target": "README.md",
+      "exists": true
+    },
+    {
+      "from": "APPLICATIONS/sources/AI057-qwen3-tts.md",
+      "target": "../../sources.md",
+      "exists": true
+    },
+    {
+      "from": "APPLICATIONS/sources/AI060-lilian-agents.md",
+      "target": "../README.md",
+      "exists": true
+    },
+    {
+      "from": "APPLICATIONS/sources/AI060-lilian-agents.md",
+      "target": "../../original_file/blogs/AI060-lilian-agents.reader.html",
+      "exists": true
+    },
+    {
+      "from": "APPLICATIONS/sources/AI060-lilian-agents.md",
+      "target": "../../original_file/blogs/AI060-lilian-agents.html",
+      "exists": true
+    },
+    {
+      "from": "APPLICATIONS/sources/AI060-lilian-agents.md",
+      "target": "../../source-reading-audit.md",
+      "exists": true
+    },
+    {
+      "from": "APPLICATIONS/sources/AI060-lilian-agents.md",
+      "target": "AI050-react.md",
+      "exists": true
+    },
+    {
+      "from": "APPLICATIONS/sources/AI060-lilian-agents.md",
+      "target": "AI049-rag.md",
+      "exists": true
+    },
+    {
+      "from": "APPLICATIONS/sources/AI060-lilian-agents.md",
+      "target": "AI051-toolformer.md",
+      "exists": true
+    },
+    {
+      "from": "APPLICATIONS/sources/AI060-lilian-agents.md",
+      "target": "README.md",
+      "exists": true
+    },
+    {
+      "from": "APPLICATIONS/sources/AI060-lilian-agents.md",
+      "target": "../../sources.md",
+      "exists": true
+    },
+    {
+      "from": "APPLICATIONS/sources/README.md",
+      "target": "AI049-rag.md",
+      "exists": true
+    },
+    {
+      "from": "APPLICATIONS/sources/README.md",
+      "target": "AI050-react.md",
+      "exists": true
+    },
+    {
+      "from": "APPLICATIONS/sources/README.md",
+      "target": "AI051-toolformer.md",
+      "exists": true
+    },
+    {
+      "from": "APPLICATIONS/sources/README.md",
+      "target": "AI052-vit.md",
+      "exists": true
+    },
+    {
+      "from": "APPLICATIONS/sources/README.md",
+      "target": "AI053-clip.md",
+      "exists": true
+    },
+    {
+      "from": "APPLICATIONS/sources/README.md",
+      "target": "AI054-whisper.md",
+      "exists": true
+    },
+    {
+      "from": "APPLICATIONS/sources/README.md",
+      "target": "AI055-dlrm.md",
+      "exists": true
+    },
+    {
+      "from": "APPLICATIONS/sources/README.md",
+      "target": "AI056-rt2.md",
+      "exists": true
+    },
+    {
+      "from": "APPLICATIONS/sources/README.md",
+      "target": "AI057-qwen3-tts.md",
+      "exists": true
+    },
+    {
+      "from": "APPLICATIONS/sources/README.md",
+      "target": "AI060-lilian-agents.md",
+      "exists": true
+    },
+    {
+      "from": "APPLICATIONS/sources/README.md",
+      "target": "../README.md",
+      "exists": true
+    },
+    {
+      "from": "APPLICATIONS/sources/README.md",
+      "target": "../../sources.md",
+      "exists": true
+    },
+    {
+      "from": "CLOUD_ACCELERATORS/README.md",
+      "target": "sources/README.md",
+      "exists": true
+    },
+    {
+      "from": "CLOUD_ACCELERATORS/README.md",
+      "target": "../sources.md",
+      "exists": true
+    },
+    {
+      "from": "CLOUD_ACCELERATORS/README.md",
+      "target": "../materials-reading-guide.md",
+      "exists": true
+    },
+    {
+      "from": "CLOUD_ACCELERATORS/README.md",
+      "target": "sources/AI035-blackwell.md",
+      "exists": true
+    },
+    {
+      "from": "CLOUD_ACCELERATORS/README.md",
+      "target": "sources/AI036-cdna4.md",
+      "exists": true
+    },
+    {
+      "from": "CLOUD_ACCELERATORS/README.md",
+      "target": "sources/AI038-tpu-first.md",
+      "exists": true
+    },
+    {
+      "from": "CLOUD_ACCELERATORS/README.md",
+      "target": "sources/AI037-tpu-v4.md",
+      "exists": true
+    },
+    {
+      "from": "CLOUD_ACCELERATORS/README.md",
+      "target": "../MODELS/sources/AI022-deepseek-hardware.md",
+      "exists": true
+    },
+    {
+      "from": "CLOUD_ACCELERATORS/README.md",
+      "target": "../TRAINING_INFERENCE/sources/AI026-megatron-lm.md",
+      "exists": true
+    },
+    {
+      "from": "CLOUD_ACCELERATORS/README.md",
+      "target": "sources/AI039-nccl.md",
+      "exists": true
+    },
+    {
+      "from": "CLOUD_ACCELERATORS/README.md",
+      "target": "sources/AI040-mlperf-inference.md",
+      "exists": true
+    },
+    {
+      "from": "CLOUD_ACCELERATORS/README.md",
+      "target": "../TRAINING_INFERENCE/README.md",
+      "exists": true
+    },
+    {
+      "from": "CLOUD_ACCELERATORS/README.md",
+      "target": "../MODELS/README.md",
+      "exists": true
+    },
+    {
+      "from": "CLOUD_ACCELERATORS/README.md",
+      "target": "../EDGE_AI/README.md",
+      "exists": true
+    },
+    {
+      "from": "CLOUD_ACCELERATORS/sources/AI035-blackwell.md",
+      "target": "../README.md",
+      "exists": true
+    },
+    {
+      "from": "CLOUD_ACCELERATORS/sources/AI035-blackwell.md",
+      "target": "../../original_file/official/AI035-blackwell.html",
+      "exists": true
+    },
+    {
+      "from": "CLOUD_ACCELERATORS/sources/AI035-blackwell.md",
+      "target": "../../original_file/official/AI035-blackwell-document-viewer.html",
+      "exists": true
+    },
+    {
+      "from": "CLOUD_ACCELERATORS/sources/AI035-blackwell.md",
+      "target": "../../TRAINING_INFERENCE/sources/AI034-tensorrt-llm.md",
+      "exists": true
+    },
+    {
+      "from": "CLOUD_ACCELERATORS/sources/AI035-blackwell.md",
+      "target": "../../MODELS/sources/AI022-deepseek-hardware.md",
+      "exists": true
+    },
+    {
+      "from": "CLOUD_ACCELERATORS/sources/AI035-blackwell.md",
+      "target": "README.md",
+      "exists": true
+    },
+    {
+      "from": "CLOUD_ACCELERATORS/sources/AI035-blackwell.md",
+      "target": "../../sources.md",
+      "exists": true
+    },
+    {
+      "from": "CLOUD_ACCELERATORS/sources/AI036-cdna4.md",
+      "target": "../README.md",
+      "exists": true
+    },
+    {
+      "from": "CLOUD_ACCELERATORS/sources/AI036-cdna4.md",
+      "target": "../../original_file/papers/AI036-cdna4.pdf",
+      "exists": true
+    },
+    {
+      "from": "CLOUD_ACCELERATORS/sources/AI036-cdna4.md",
+      "target": "AI035-blackwell.md",
+      "exists": true
+    },
+    {
+      "from": "CLOUD_ACCELERATORS/sources/AI036-cdna4.md",
+      "target": "../../MODELS/sources/AI022-deepseek-hardware.md",
+      "exists": true
+    },
+    {
+      "from": "CLOUD_ACCELERATORS/sources/AI036-cdna4.md",
+      "target": "README.md",
+      "exists": true
+    },
+    {
+      "from": "CLOUD_ACCELERATORS/sources/AI036-cdna4.md",
+      "target": "../../sources.md",
+      "exists": true
+    },
+    {
+      "from": "CLOUD_ACCELERATORS/sources/AI037-tpu-v4.md",
+      "target": "../README.md",
+      "exists": true
+    },
+    {
+      "from": "CLOUD_ACCELERATORS/sources/AI037-tpu-v4.md",
+      "target": "../../original_file/papers/AI037-tpu-v4.metadata.html",
+      "exists": true
+    },
+    {
+      "from": "CLOUD_ACCELERATORS/sources/AI037-tpu-v4.md",
+      "target": "../../original_file/papers/AI037-tpu-v4.pdf",
+      "exists": true
+    },
+    {
+      "from": "CLOUD_ACCELERATORS/sources/AI037-tpu-v4.md",
+      "target": "AI038-tpu-first.md",
+      "exists": true
+    },
+    {
+      "from": "CLOUD_ACCELERATORS/sources/AI037-tpu-v4.md",
+      "target": "../../APPLICATIONS/sources/AI055-dlrm.md",
+      "exists": true
+    },
+    {
+      "from": "CLOUD_ACCELERATORS/sources/AI037-tpu-v4.md",
+      "target": "README.md",
+      "exists": true
+    },
+    {
+      "from": "CLOUD_ACCELERATORS/sources/AI037-tpu-v4.md",
+      "target": "../../sources.md",
+      "exists": true
+    },
+    {
+      "from": "CLOUD_ACCELERATORS/sources/AI038-tpu-first.md",
+      "target": "../README.md",
+      "exists": true
+    },
+    {
+      "from": "CLOUD_ACCELERATORS/sources/AI038-tpu-first.md",
+      "target": "../../original_file/papers/AI038-tpu-first.metadata.html",
+      "exists": true
+    },
+    {
+      "from": "CLOUD_ACCELERATORS/sources/AI038-tpu-first.md",
+      "target": "../../original_file/papers/AI038-tpu-first.pdf",
+      "exists": true
+    },
+    {
+      "from": "CLOUD_ACCELERATORS/sources/AI038-tpu-first.md",
+      "target": "AI037-tpu-v4.md",
+      "exists": true
+    },
+    {
+      "from": "CLOUD_ACCELERATORS/sources/AI038-tpu-first.md",
+      "target": "README.md",
+      "exists": true
+    },
+    {
+      "from": "CLOUD_ACCELERATORS/sources/AI038-tpu-first.md",
+      "target": "../../sources.md",
+      "exists": true
+    },
+    {
+      "from": "CLOUD_ACCELERATORS/sources/AI039-nccl.md",
+      "target": "../README.md",
+      "exists": true
+    },
+    {
+      "from": "CLOUD_ACCELERATORS/sources/AI039-nccl.md",
+      "target": "../../original_file/official/AI039-nccl.html",
+      "exists": true
+    },
+    {
+      "from": "CLOUD_ACCELERATORS/sources/AI039-nccl.md",
+      "target": "../../TRAINING_INFERENCE/sources/AI026-megatron-lm.md",
+      "exists": true
+    },
+    {
+      "from": "CLOUD_ACCELERATORS/sources/AI039-nccl.md",
+      "target": "../../TRAINING_INFERENCE/sources/AI025-zero.md",
+      "exists": true
+    },
+    {
+      "from": "CLOUD_ACCELERATORS/sources/AI039-nccl.md",
+      "target": "README.md",
+      "exists": true
+    },
+    {
+      "from": "CLOUD_ACCELERATORS/sources/AI039-nccl.md",
+      "target": "../../sources.md",
+      "exists": true
+    },
+    {
+      "from": "CLOUD_ACCELERATORS/sources/AI040-mlperf-inference.md",
+      "target": "../README.md",
+      "exists": true
+    },
+    {
+      "from": "CLOUD_ACCELERATORS/sources/AI040-mlperf-inference.md",
+      "target": "../../original_file/papers/AI040-mlperf-inference.metadata.html",
+      "exists": true
+    },
+    {
+      "from": "CLOUD_ACCELERATORS/sources/AI040-mlperf-inference.md",
+      "target": "../../original_file/papers/AI040-mlperf-inference.pdf",
+      "exists": true
+    },
+    {
+      "from": "CLOUD_ACCELERATORS/sources/AI040-mlperf-inference.md",
+      "target": "../../EDGE_AI/sources/AI043-mobilellm.md",
+      "exists": true
+    },
+    {
+      "from": "CLOUD_ACCELERATORS/sources/AI040-mlperf-inference.md",
+      "target": "AI035-blackwell.md",
+      "exists": true
+    },
+    {
+      "from": "CLOUD_ACCELERATORS/sources/AI040-mlperf-inference.md",
+      "target": "README.md",
+      "exists": true
+    },
+    {
+      "from": "CLOUD_ACCELERATORS/sources/AI040-mlperf-inference.md",
+      "target": "../../sources.md",
+      "exists": true
+    },
+    {
+      "from": "CLOUD_ACCELERATORS/sources/README.md",
+      "target": "AI035-blackwell.md",
+      "exists": true
+    },
+    {
+      "from": "CLOUD_ACCELERATORS/sources/README.md",
+      "target": "AI036-cdna4.md",
+      "exists": true
+    },
+    {
+      "from": "CLOUD_ACCELERATORS/sources/README.md",
+      "target": "AI037-tpu-v4.md",
+      "exists": true
+    },
+    {
+      "from": "CLOUD_ACCELERATORS/sources/README.md",
+      "target": "AI038-tpu-first.md",
+      "exists": true
+    },
+    {
+      "from": "CLOUD_ACCELERATORS/sources/README.md",
+      "target": "AI039-nccl.md",
+      "exists": true
+    },
+    {
+      "from": "CLOUD_ACCELERATORS/sources/README.md",
+      "target": "AI040-mlperf-inference.md",
+      "exists": true
+    },
+    {
+      "from": "CLOUD_ACCELERATORS/sources/README.md",
+      "target": "../README.md",
+      "exists": true
+    },
+    {
+      "from": "CLOUD_ACCELERATORS/sources/README.md",
+      "target": "../../sources.md",
+      "exists": true
+    },
+    {
+      "from": "EDGE_AI/README.md",
+      "target": "sources/README.md",
+      "exists": true
+    },
+    {
+      "from": "EDGE_AI/README.md",
+      "target": "../sources.md",
+      "exists": true
+    },
+    {
+      "from": "EDGE_AI/README.md",
+      "target": "../materials-reading-guide.md",
+      "exists": true
+    },
+    {
+      "from": "EDGE_AI/README.md",
+      "target": "sources/AI041-qualcomm-npu.md",
+      "exists": true
+    },
+    {
+      "from": "EDGE_AI/README.md",
+      "target": "sources/AI043-mobilellm.md",
+      "exists": true
+    },
+    {
+      "from": "EDGE_AI/README.md",
+      "target": "../ALGORITHMS/sources/AI010-knowledge-distillation.md",
+      "exists": true
+    },
+    {
+      "from": "EDGE_AI/README.md",
+      "target": "../ALGORITHMS/sources/AI011-awq.md",
+      "exists": true
+    },
+    {
+      "from": "EDGE_AI/README.md",
+      "target": "sources/AI045-onnx-qnn.md",
+      "exists": true
+    },
+    {
+      "from": "EDGE_AI/README.md",
+      "target": "sources/AI046-executorch.md",
+      "exists": true
+    },
+    {
+      "from": "EDGE_AI/README.md",
+      "target": "sources/AI048-llama-cpp.md",
+      "exists": true
+    },
+    {
+      "from": "EDGE_AI/README.md",
+      "target": "sources/AI047-mlx.md",
+      "exists": true
+    },
+    {
+      "from": "EDGE_AI/README.md",
+      "target": "../ALGORITHMS/sources/AI004-resnet.md",
+      "exists": true
+    },
+    {
+      "from": "EDGE_AI/README.md",
+      "target": "sources/AI044-mcunet.md",
+      "exists": true
+    },
+    {
+      "from": "EDGE_AI/README.md",
+      "target": "sources/AI042-hexagon-2026.md",
+      "exists": true
+    },
+    {
+      "from": "EDGE_AI/README.md",
+      "target": "../ALGORITHMS/README.md",
+      "exists": true
+    },
+    {
+      "from": "EDGE_AI/README.md",
+      "target": "../TRAINING_INFERENCE/README.md",
+      "exists": true
+    },
+    {
+      "from": "EDGE_AI/README.md",
+      "target": "../CLOUD_ACCELERATORS/README.md",
+      "exists": true
+    },
+    {
+      "from": "EDGE_AI/sources/AI041-qualcomm-npu.md",
+      "target": "../README.md",
+      "exists": true
+    },
+    {
+      "from": "EDGE_AI/sources/AI041-qualcomm-npu.md",
+      "target": "../../original_file/papers/AI041-qualcomm-npu.pdf",
+      "exists": true
+    },
+    {
+      "from": "EDGE_AI/sources/AI041-qualcomm-npu.md",
+      "target": "AI045-onnx-qnn.md",
+      "exists": true
+    },
+    {
+      "from": "EDGE_AI/sources/AI041-qualcomm-npu.md",
+      "target": "AI043-mobilellm.md",
+      "exists": true
+    },
+    {
+      "from": "EDGE_AI/sources/AI041-qualcomm-npu.md",
+      "target": "README.md",
+      "exists": true
+    },
+    {
+      "from": "EDGE_AI/sources/AI041-qualcomm-npu.md",
+      "target": "../../sources.md",
+      "exists": true
+    },
+    {
+      "from": "EDGE_AI/sources/AI042-hexagon-2026.md",
+      "target": "../README.md",
+      "exists": true
+    },
+    {
+      "from": "EDGE_AI/sources/AI042-hexagon-2026.md",
+      "target": "../../original_file/pending/AI042-hexagon-2026.url",
+      "exists": true
+    },
+    {
+      "from": "EDGE_AI/sources/AI042-hexagon-2026.md",
+      "target": "AI041-qualcomm-npu.md",
+      "exists": true
+    },
+    {
+      "from": "EDGE_AI/sources/AI042-hexagon-2026.md",
+      "target": "../../ALGORITHMS/sources/AI008-switch-transformer.md",
+      "exists": true
+    },
+    {
+      "from": "EDGE_AI/sources/AI042-hexagon-2026.md",
+      "target": "README.md",
+      "exists": true
+    },
+    {
+      "from": "EDGE_AI/sources/AI042-hexagon-2026.md",
+      "target": "../../sources.md",
+      "exists": true
+    },
+    {
+      "from": "EDGE_AI/sources/AI043-mobilellm.md",
+      "target": "../README.md",
+      "exists": true
+    },
+    {
+      "from": "EDGE_AI/sources/AI043-mobilellm.md",
+      "target": "../../original_file/papers/AI043-mobilellm.metadata.html",
+      "exists": true
+    },
+    {
+      "from": "EDGE_AI/sources/AI043-mobilellm.md",
+      "target": "../../original_file/papers/AI043-mobilellm.pdf",
+      "exists": true
+    },
+    {
+      "from": "EDGE_AI/sources/AI043-mobilellm.md",
+      "target": "../../ALGORITHMS/sources/AI010-knowledge-distillation.md",
+      "exists": true
+    },
+    {
+      "from": "EDGE_AI/sources/AI043-mobilellm.md",
+      "target": "../../ALGORITHMS/sources/AI011-awq.md",
+      "exists": true
+    },
+    {
+      "from": "EDGE_AI/sources/AI043-mobilellm.md",
+      "target": "README.md",
+      "exists": true
+    },
+    {
+      "from": "EDGE_AI/sources/AI043-mobilellm.md",
+      "target": "../../sources.md",
+      "exists": true
+    },
+    {
+      "from": "EDGE_AI/sources/AI044-mcunet.md",
+      "target": "../README.md",
+      "exists": true
+    },
+    {
+      "from": "EDGE_AI/sources/AI044-mcunet.md",
+      "target": "../../original_file/papers/AI044-mcunet.metadata.html",
+      "exists": true
+    },
+    {
+      "from": "EDGE_AI/sources/AI044-mcunet.md",
+      "target": "../../original_file/papers/AI044-mcunet.pdf",
+      "exists": true
+    },
+    {
+      "from": "EDGE_AI/sources/AI044-mcunet.md",
+      "target": "../../ALGORITHMS/sources/AI004-resnet.md",
+      "exists": true
+    },
+    {
+      "from": "EDGE_AI/sources/AI044-mcunet.md",
+      "target": "../../TRAINING_INFERENCE/sources/AI031-mlir.md",
+      "exists": true
+    },
+    {
+      "from": "EDGE_AI/sources/AI044-mcunet.md",
+      "target": "README.md",
+      "exists": true
+    },
+    {
+      "from": "EDGE_AI/sources/AI044-mcunet.md",
+      "target": "../../sources.md",
+      "exists": true
+    },
+    {
+      "from": "EDGE_AI/sources/AI045-onnx-qnn.md",
+      "target": "../README.md",
+      "exists": true
+    },
+    {
+      "from": "EDGE_AI/sources/AI045-onnx-qnn.md",
+      "target": "../../original_file/official/AI045-onnx-qnn.html",
+      "exists": true
+    },
+    {
+      "from": "EDGE_AI/sources/AI045-onnx-qnn.md",
+      "target": "AI041-qualcomm-npu.md",
+      "exists": true
+    },
+    {
+      "from": "EDGE_AI/sources/AI045-onnx-qnn.md",
+      "target": "../../ALGORITHMS/sources/AI011-awq.md",
+      "exists": true
+    },
+    {
+      "from": "EDGE_AI/sources/AI045-onnx-qnn.md",
+      "target": "README.md",
+      "exists": true
+    },
+    {
+      "from": "EDGE_AI/sources/AI045-onnx-qnn.md",
+      "target": "../../sources.md",
+      "exists": true
+    },
+    {
+      "from": "EDGE_AI/sources/AI046-executorch.md",
+      "target": "../README.md",
+      "exists": true
+    },
+    {
+      "from": "EDGE_AI/sources/AI046-executorch.md",
+      "target": "../../original_file/official/AI046-executorch.html",
+      "exists": true
+    },
+    {
+      "from": "EDGE_AI/sources/AI046-executorch.md",
+      "target": "../../TRAINING_INFERENCE/sources/AI031-mlir.md",
+      "exists": true
+    },
+    {
+      "from": "EDGE_AI/sources/AI046-executorch.md",
+      "target": "AI045-onnx-qnn.md",
+      "exists": true
+    },
+    {
+      "from": "EDGE_AI/sources/AI046-executorch.md",
+      "target": "README.md",
+      "exists": true
+    },
+    {
+      "from": "EDGE_AI/sources/AI046-executorch.md",
+      "target": "../../sources.md",
+      "exists": true
+    },
+    {
+      "from": "EDGE_AI/sources/AI047-mlx.md",
+      "target": "../README.md",
+      "exists": true
+    },
+    {
+      "from": "EDGE_AI/sources/AI047-mlx.md",
+      "target": "../../original_file/code/AI047-mlx/commit.json",
+      "exists": true
+    },
+    {
+      "from": "EDGE_AI/sources/AI047-mlx.md",
+      "target": "../../original_file/code/AI047-mlx/python/mlx/nn/layers/quantized.py",
+      "exists": true
+    },
+    {
+      "from": "EDGE_AI/sources/AI047-mlx.md",
+      "target": "../../original_file/code/AI047-mlx/README.md",
+      "exists": true
+    },
+    {
+      "from": "EDGE_AI/sources/AI047-mlx.md",
+      "target": "AI048-llama-cpp.md",
+      "exists": true
+    },
+    {
+      "from": "EDGE_AI/sources/AI047-mlx.md",
+      "target": "README.md",
+      "exists": true
+    },
+    {
+      "from": "EDGE_AI/sources/AI047-mlx.md",
+      "target": "../../sources.md",
+      "exists": true
+    },
+    {
+      "from": "EDGE_AI/sources/AI048-llama-cpp.md",
+      "target": "../README.md",
+      "exists": true
+    },
+    {
+      "from": "EDGE_AI/sources/AI048-llama-cpp.md",
+      "target": "../../original_file/code/AI048-llama-cpp/commit.json",
+      "exists": true
+    },
+    {
+      "from": "EDGE_AI/sources/AI048-llama-cpp.md",
+      "target": "../../original_file/code/AI048-llama-cpp/README.md",
+      "exists": true
+    },
+    {
+      "from": "EDGE_AI/sources/AI048-llama-cpp.md",
+      "target": "../../original_file/code/AI048-llama-cpp/src/llama-kv-cache.cpp",
+      "exists": true
+    },
+    {
+      "from": "EDGE_AI/sources/AI048-llama-cpp.md",
+      "target": "../../original_file/code/AI048-llama-cpp/src/llama-model.cpp",
+      "exists": true
+    },
+    {
+      "from": "EDGE_AI/sources/AI048-llama-cpp.md",
+      "target": "../../ALGORITHMS/sources/AI011-awq.md",
+      "exists": true
+    },
+    {
+      "from": "EDGE_AI/sources/AI048-llama-cpp.md",
+      "target": "../../ALGORITHMS/sources/AI013-gqa.md",
+      "exists": true
+    },
+    {
+      "from": "EDGE_AI/sources/AI048-llama-cpp.md",
+      "target": "README.md",
+      "exists": true
+    },
+    {
+      "from": "EDGE_AI/sources/AI048-llama-cpp.md",
+      "target": "../../sources.md",
+      "exists": true
+    },
+    {
+      "from": "EDGE_AI/sources/README.md",
+      "target": "AI041-qualcomm-npu.md",
+      "exists": true
+    },
+    {
+      "from": "EDGE_AI/sources/README.md",
+      "target": "AI042-hexagon-2026.md",
+      "exists": true
+    },
+    {
+      "from": "EDGE_AI/sources/README.md",
+      "target": "AI043-mobilellm.md",
+      "exists": true
+    },
+    {
+      "from": "EDGE_AI/sources/README.md",
+      "target": "AI044-mcunet.md",
+      "exists": true
+    },
+    {
+      "from": "EDGE_AI/sources/README.md",
+      "target": "AI045-onnx-qnn.md",
+      "exists": true
+    },
+    {
+      "from": "EDGE_AI/sources/README.md",
+      "target": "AI046-executorch.md",
+      "exists": true
+    },
+    {
+      "from": "EDGE_AI/sources/README.md",
+      "target": "AI047-mlx.md",
+      "exists": true
+    },
+    {
+      "from": "EDGE_AI/sources/README.md",
+      "target": "AI048-llama-cpp.md",
+      "exists": true
+    },
+    {
+      "from": "EDGE_AI/sources/README.md",
+      "target": "../README.md",
+      "exists": true
+    },
+    {
+      "from": "EDGE_AI/sources/README.md",
+      "target": "../../sources.md",
+      "exists": true
+    },
+    {
+      "from": "materials-reading-guide.md",
+      "target": "sources.md",
+      "exists": true
+    },
+    {
+      "from": "materials-reading-guide.md",
+      "target": "README.md#分类资料集",
+      "exists": true
+    },
+    {
+      "from": "materials-reading-guide.md",
+      "target": "ALGORITHMS/sources/AI058-illustrated-transformer.md",
+      "exists": true
+    },
+    {
+      "from": "materials-reading-guide.md",
+      "target": "ALGORITHMS/sources/AI003-attention-is-all-you-need.md",
+      "exists": true
+    },
+    {
+      "from": "materials-reading-guide.md",
+      "target": "MODELS/sources/AI059-illustrated-gpt2.md",
+      "exists": true
+    },
+    {
+      "from": "materials-reading-guide.md",
+      "target": "TRAINING_INFERENCE/sources/AI001-wechat-prefill-decode.md",
+      "exists": true
+    },
+    {
+      "from": "materials-reading-guide.md",
+      "target": "TRAINING_INFERENCE/sources/AI002-wechat-kv-cache.md",
+      "exists": true
+    },
+    {
+      "from": "materials-reading-guide.md",
+      "target": "ALGORITHMS/sources/AI013-gqa.md",
+      "exists": true
+    },
+    {
+      "from": "materials-reading-guide.md",
+      "target": "MODELS/sources/AI015-qwen3.md",
+      "exists": true
+    },
+    {
+      "from": "materials-reading-guide.md",
+      "target": "MODELS/sources/AI065-qwen3-implementation.md",
+      "exists": true
+    },
+    {
+      "from": "materials-reading-guide.md",
+      "target": "TRAINING_INFERENCE/sources/AI024-pagedattention.md",
+      "exists": true
+    },
+    {
+      "from": "materials-reading-guide.md",
+      "target": "TRAINING_INFERENCE/sources/AI032-vllm-architecture.md",
+      "exists": true
+    },
+    {
+      "from": "materials-reading-guide.md",
+      "target": "TRAINING_INFERENCE/sources/AI023-flashattention.md",
+      "exists": true
+    },
+    {
+      "from": "materials-reading-guide.md",
+      "target": "TRAINING_INFERENCE/sources/AI063-go-brrr.md",
+      "exists": true
+    },
+    {
+      "from": "materials-reading-guide.md",
+      "target": "CLOUD_ACCELERATORS/sources/AI035-blackwell.md",
+      "exists": true
+    },
+    {
+      "from": "materials-reading-guide.md",
+      "target": "CLOUD_ACCELERATORS/sources/AI036-cdna4.md",
+      "exists": true
+    },
+    {
+      "from": "materials-reading-guide.md",
+      "target": "CLOUD_ACCELERATORS/sources/AI037-tpu-v4.md",
+      "exists": true
+    },
+    {
+      "from": "materials-reading-guide.md",
+      "target": "MODELS/sources/AI022-deepseek-hardware.md",
+      "exists": true
+    },
+    {
+      "from": "materials-reading-guide.md",
+      "target": "EDGE_AI/sources/AI041-qualcomm-npu.md",
+      "exists": true
+    },
+    {
+      "from": "materials-reading-guide.md",
+      "target": "ALGORITHMS/sources/AI011-awq.md",
+      "exists": true
+    },
+    {
+      "from": "materials-reading-guide.md",
+      "target": "EDGE_AI/sources/AI043-mobilellm.md",
+      "exists": true
+    },
+    {
+      "from": "materials-reading-guide.md",
+      "target": "EDGE_AI/sources/AI045-onnx-qnn.md",
+      "exists": true
+    },
+    {
+      "from": "materials-reading-guide.md",
+      "target": "EDGE_AI/sources/AI048-llama-cpp.md",
+      "exists": true
+    },
+    {
+      "from": "materials-reading-guide.md",
+      "target": "ALGORITHMS/sources/AI008-switch-transformer.md",
+      "exists": true
+    },
+    {
+      "from": "materials-reading-guide.md",
+      "target": "MODELS/sources/AI016-deepseek-v3.md",
+      "exists": true
+    },
+    {
+      "from": "materials-reading-guide.md",
+      "target": "MODELS/sources/AI022-deepseek-hardware.md",
+      "exists": true
+    },
+    {
+      "from": "materials-reading-guide.md",
+      "target": "TRAINING_INFERENCE/sources/AI033-rlhf.md",
+      "exists": true
+    },
+    {
+      "from": "materials-reading-guide.md",
+      "target": "TRAINING_INFERENCE/sources/AI027-dpo.md",
+      "exists": true
+    },
+    {
+      "from": "materials-reading-guide.md",
+      "target": "TRAINING_INFERENCE/sources/AI028-deepseek-math.md",
+      "exists": true
+    },
+    {
+      "from": "materials-reading-guide.md",
+      "target": "MODELS/sources/AI017-deepseek-r1.md",
+      "exists": true
+    },
+    {
+      "from": "materials-reading-guide.md",
+      "target": "ALGORITHMS/sources/AI005-adam.md",
+      "exists": true
+    },
+    {
+      "from": "materials-reading-guide.md",
+      "target": "TRAINING_INFERENCE/sources/AI025-zero.md",
+      "exists": true
+    },
+    {
+      "from": "materials-reading-guide.md",
+      "target": "TRAINING_INFERENCE/sources/AI026-megatron-lm.md",
+      "exists": true
+    },
+    {
+      "from": "materials-reading-guide.md",
+      "target": "CLOUD_ACCELERATORS/sources/AI039-nccl.md",
+      "exists": true
+    },
+    {
+      "from": "materials-reading-guide.md",
+      "target": "ALGORITHMS/sources/AI012-gptq.md",
+      "exists": true
+    },
+    {
+      "from": "materials-reading-guide.md",
+      "target": "ALGORITHMS/sources/AI011-awq.md",
+      "exists": true
+    },
+    {
+      "from": "materials-reading-guide.md",
+      "target": "ALGORITHMS/sources/AI010-knowledge-distillation.md",
+      "exists": true
+    },
+    {
+      "from": "materials-reading-guide.md",
+      "target": "EDGE_AI/sources/AI043-mobilellm.md",
+      "exists": true
+    },
+    {
+      "from": "materials-reading-guide.md",
+      "target": "EDGE_AI/sources/AI044-mcunet.md",
+      "exists": true
+    },
+    {
+      "from": "materials-reading-guide.md",
+      "target": "ALGORITHMS/sources/AI006-ddpm.md",
+      "exists": true
+    },
+    {
+      "from": "materials-reading-guide.md",
+      "target": "ALGORITHMS/sources/AI061-lilian-diffusion.md",
+      "exists": true
+    },
+    {
+      "from": "materials-reading-guide.md",
+      "target": "APPLICATIONS/sources/AI049-rag.md",
+      "exists": true
+    },
+    {
+      "from": "materials-reading-guide.md",
+      "target": "APPLICATIONS/sources/AI050-react.md",
+      "exists": true
+    },
+    {
+      "from": "materials-reading-guide.md",
+      "target": "APPLICATIONS/sources/AI051-toolformer.md",
+      "exists": true
+    },
+    {
+      "from": "materials-reading-guide.md",
+      "target": "APPLICATIONS/sources/AI060-lilian-agents.md",
+      "exists": true
+    },
+    {
+      "from": "materials-reading-guide.md",
+      "target": "APPLICATIONS/sources/AI052-vit.md",
+      "exists": true
+    },
+    {
+      "from": "materials-reading-guide.md",
+      "target": "APPLICATIONS/sources/AI053-clip.md",
+      "exists": true
+    },
+    {
+      "from": "materials-reading-guide.md",
+      "target": "MODELS/sources/AI019-qwen25-vl.md",
+      "exists": true
+    },
+    {
+      "from": "materials-reading-guide.md",
+      "target": "APPLICATIONS/sources/AI054-whisper.md",
+      "exists": true
+    },
+    {
+      "from": "materials-reading-guide.md",
+      "target": "APPLICATIONS/sources/AI057-qwen3-tts.md",
+      "exists": true
+    },
+    {
+      "from": "materials-reading-guide.md",
+      "target": "APPLICATIONS/sources/AI055-dlrm.md",
+      "exists": true
+    },
+    {
+      "from": "materials-reading-guide.md",
+      "target": "APPLICATIONS/sources/AI056-rt2.md",
+      "exists": true
+    },
+    {
+      "from": "materials-reading-guide.md",
+      "target": "source-reading-audit.md",
+      "exists": true
+    },
+    {
+      "from": "MODELS/README.md",
+      "target": "sources/README.md",
+      "exists": true
+    },
+    {
+      "from": "MODELS/README.md",
+      "target": "../sources.md",
+      "exists": true
+    },
+    {
+      "from": "MODELS/README.md",
+      "target": "../materials-reading-guide.md",
+      "exists": true
+    },
+    {
+      "from": "MODELS/README.md",
+      "target": "sources/AI059-illustrated-gpt2.md",
+      "exists": true
+    },
+    {
+      "from": "MODELS/README.md",
+      "target": "sources/AI015-qwen3.md",
+      "exists": true
+    },
+    {
+      "from": "MODELS/README.md",
+      "target": "sources/AI065-qwen3-implementation.md",
+      "exists": true
+    },
+    {
+      "from": "MODELS/README.md",
+      "target": "sources/AI018-llama3.md",
+      "exists": true
+    },
+    {
+      "from": "MODELS/README.md",
+      "target": "sources/AI021-gemma3.md",
+      "exists": true
+    },
+    {
+      "from": "MODELS/README.md",
+      "target": "../ALGORITHMS/sources/AI008-switch-transformer.md",
+      "exists": true
+    },
+    {
+      "from": "MODELS/README.md",
+      "target": "sources/AI016-deepseek-v3.md",
+      "exists": true
+    },
+    {
+      "from": "MODELS/README.md",
+      "target": "sources/AI017-deepseek-r1.md",
+      "exists": true
+    },
+    {
+      "from": "MODELS/README.md",
+      "target": "../TRAINING_INFERENCE/sources/AI028-deepseek-math.md",
+      "exists": true
+    },
+    {
+      "from": "MODELS/README.md",
+      "target": "sources/AI022-deepseek-hardware.md",
+      "exists": true
+    },
+    {
+      "from": "MODELS/README.md",
+      "target": "sources/AI019-qwen25-vl.md",
+      "exists": true
+    },
+    {
+      "from": "MODELS/README.md",
+      "target": "sources/AI020-qwen38-next.md",
+      "exists": true
+    },
+    {
+      "from": "MODELS/README.md",
+      "target": "sources/AI062-raschka-comparison.md",
+      "exists": true
+    },
+    {
+      "from": "MODELS/README.md",
+      "target": "../ALGORITHMS/README.md",
+      "exists": true
+    },
+    {
+      "from": "MODELS/README.md",
+      "target": "../TRAINING_INFERENCE/README.md",
+      "exists": true
+    },
+    {
+      "from": "MODELS/README.md",
+      "target": "../CLOUD_ACCELERATORS/README.md",
+      "exists": true
+    },
+    {
+      "from": "MODELS/README.md",
+      "target": "../APPLICATIONS/README.md",
+      "exists": true
+    },
+    {
+      "from": "MODELS/sources/AI015-qwen3.md",
+      "target": "../README.md",
+      "exists": true
+    },
+    {
+      "from": "MODELS/sources/AI015-qwen3.md",
+      "target": "../../original_file/papers/AI015-qwen3.metadata.html",
+      "exists": true
+    },
+    {
+      "from": "MODELS/sources/AI015-qwen3.md",
+      "target": "../../original_file/papers/AI015-qwen3.pdf",
+      "exists": true
+    },
+    {
+      "from": "MODELS/sources/AI015-qwen3.md",
+      "target": "../../ALGORITHMS/sources/AI013-gqa.md",
+      "exists": true
+    },
+    {
+      "from": "MODELS/sources/AI015-qwen3.md",
+      "target": "../../ALGORITHMS/sources/AI008-switch-transformer.md",
+      "exists": true
+    },
+    {
+      "from": "MODELS/sources/AI015-qwen3.md",
+      "target": "../../ALGORITHMS/sources/AI009-lora.md",
+      "exists": true
+    },
+    {
+      "from": "MODELS/sources/AI015-qwen3.md",
+      "target": "README.md",
+      "exists": true
+    },
+    {
+      "from": "MODELS/sources/AI015-qwen3.md",
+      "target": "../../sources.md",
+      "exists": true
+    },
+    {
+      "from": "MODELS/sources/AI016-deepseek-v3.md",
+      "target": "../README.md",
+      "exists": true
+    },
+    {
+      "from": "MODELS/sources/AI016-deepseek-v3.md",
+      "target": "../../original_file/papers/AI016-deepseek-v3.metadata.html",
+      "exists": true
+    },
+    {
+      "from": "MODELS/sources/AI016-deepseek-v3.md",
+      "target": "../../original_file/papers/AI016-deepseek-v3.pdf",
+      "exists": true
+    },
+    {
+      "from": "MODELS/sources/AI016-deepseek-v3.md",
+      "target": "../../ALGORITHMS/sources/AI008-switch-transformer.md",
+      "exists": true
+    },
+    {
+      "from": "MODELS/sources/AI016-deepseek-v3.md",
+      "target": "AI022-deepseek-hardware.md",
+      "exists": true
+    },
+    {
+      "from": "MODELS/sources/AI016-deepseek-v3.md",
+      "target": "README.md",
+      "exists": true
+    },
+    {
+      "from": "MODELS/sources/AI016-deepseek-v3.md",
+      "target": "../../sources.md",
+      "exists": true
+    },
+    {
+      "from": "MODELS/sources/AI017-deepseek-r1.md",
+      "target": "../README.md",
+      "exists": true
+    },
+    {
+      "from": "MODELS/sources/AI017-deepseek-r1.md",
+      "target": "../../original_file/papers/AI017-deepseek-r1.metadata.html",
+      "exists": true
+    },
+    {
+      "from": "MODELS/sources/AI017-deepseek-r1.md",
+      "target": "../../original_file/papers/AI017-deepseek-r1.pdf",
+      "exists": true
+    },
+    {
+      "from": "MODELS/sources/AI017-deepseek-r1.md",
+      "target": "../../TRAINING_INFERENCE/sources/AI028-deepseek-math.md",
+      "exists": true
+    },
+    {
+      "from": "MODELS/sources/AI017-deepseek-r1.md",
+      "target": "../../ALGORITHMS/sources/AI010-knowledge-distillation.md",
+      "exists": true
+    },
+    {
+      "from": "MODELS/sources/AI017-deepseek-r1.md",
+      "target": "README.md",
+      "exists": true
+    },
+    {
+      "from": "MODELS/sources/AI017-deepseek-r1.md",
+      "target": "../../sources.md",
+      "exists": true
+    },
+    {
+      "from": "MODELS/sources/AI018-llama3.md",
+      "target": "../README.md",
+      "exists": true
+    },
+    {
+      "from": "MODELS/sources/AI018-llama3.md",
+      "target": "../../original_file/papers/AI018-llama3.metadata.html",
+      "exists": true
+    },
+    {
+      "from": "MODELS/sources/AI018-llama3.md",
+      "target": "../../original_file/papers/AI018-llama3.pdf",
+      "exists": true
+    },
+    {
+      "from": "MODELS/sources/AI018-llama3.md",
+      "target": "../../ALGORITHMS/sources/AI013-gqa.md",
+      "exists": true
+    },
+    {
+      "from": "MODELS/sources/AI018-llama3.md",
+      "target": "../../ALGORITHMS/sources/AI014-roformer.md",
+      "exists": true
+    },
+    {
+      "from": "MODELS/sources/AI018-llama3.md",
+      "target": "README.md",
+      "exists": true
+    },
+    {
+      "from": "MODELS/sources/AI018-llama3.md",
+      "target": "../../sources.md",
+      "exists": true
+    },
+    {
+      "from": "MODELS/sources/AI019-qwen25-vl.md",
+      "target": "../README.md",
+      "exists": true
+    },
+    {
+      "from": "MODELS/sources/AI019-qwen25-vl.md",
+      "target": "../../original_file/papers/AI019-qwen25-vl.metadata.html",
+      "exists": true
+    },
+    {
+      "from": "MODELS/sources/AI019-qwen25-vl.md",
+      "target": "../../original_file/papers/AI019-qwen25-vl.pdf",
+      "exists": true
+    },
+    {
+      "from": "MODELS/sources/AI019-qwen25-vl.md",
+      "target": "../../APPLICATIONS/sources/AI052-vit.md",
+      "exists": true
+    },
+    {
+      "from": "MODELS/sources/AI019-qwen25-vl.md",
+      "target": "../../APPLICATIONS/sources/AI053-clip.md",
+      "exists": true
+    },
+    {
+      "from": "MODELS/sources/AI019-qwen25-vl.md",
+      "target": "README.md",
+      "exists": true
+    },
+    {
+      "from": "MODELS/sources/AI019-qwen25-vl.md",
+      "target": "../../sources.md",
+      "exists": true
+    },
+    {
+      "from": "MODELS/sources/AI020-qwen38-next.md",
+      "target": "../README.md",
+      "exists": true
+    },
+    {
+      "from": "MODELS/sources/AI020-qwen38-next.md",
+      "target": "../../original_file/papers/AI020-qwen38-next.metadata.html",
+      "exists": true
+    },
+    {
+      "from": "MODELS/sources/AI020-qwen38-next.md",
+      "target": "../../original_file/papers/AI020-qwen38-next.pdf",
+      "exists": true
+    },
+    {
+      "from": "MODELS/sources/AI020-qwen38-next.md",
+      "target": "../../ALGORITHMS/sources/AI007-mamba.md",
+      "exists": true
+    },
+    {
+      "from": "MODELS/sources/AI020-qwen38-next.md",
+      "target": "AI016-deepseek-v3.md",
+      "exists": true
+    },
+    {
+      "from": "MODELS/sources/AI020-qwen38-next.md",
+      "target": "README.md",
+      "exists": true
+    },
+    {
+      "from": "MODELS/sources/AI020-qwen38-next.md",
+      "target": "../../sources.md",
+      "exists": true
+    },
+    {
+      "from": "MODELS/sources/AI021-gemma3.md",
+      "target": "../README.md",
+      "exists": true
+    },
+    {
+      "from": "MODELS/sources/AI021-gemma3.md",
+      "target": "../../original_file/papers/AI021-gemma3.metadata.html",
+      "exists": true
+    },
+    {
+      "from": "MODELS/sources/AI021-gemma3.md",
+      "target": "../../original_file/papers/AI021-gemma3.pdf",
+      "exists": true
+    },
+    {
+      "from": "MODELS/sources/AI021-gemma3.md",
+      "target": "../../ALGORITHMS/sources/AI013-gqa.md",
+      "exists": true
+    },
+    {
+      "from": "MODELS/sources/AI021-gemma3.md",
+      "target": "AI019-qwen25-vl.md",
+      "exists": true
+    },
+    {
+      "from": "MODELS/sources/AI021-gemma3.md",
+      "target": "README.md",
+      "exists": true
+    },
+    {
+      "from": "MODELS/sources/AI021-gemma3.md",
+      "target": "../../sources.md",
+      "exists": true
+    },
+    {
+      "from": "MODELS/sources/AI022-deepseek-hardware.md",
+      "target": "../README.md",
+      "exists": true
+    },
+    {
+      "from": "MODELS/sources/AI022-deepseek-hardware.md",
+      "target": "../../original_file/papers/AI022-deepseek-hardware.metadata.html",
+      "exists": true
+    },
+    {
+      "from": "MODELS/sources/AI022-deepseek-hardware.md",
+      "target": "../../original_file/papers/AI022-deepseek-hardware.pdf",
+      "exists": true
+    },
+    {
+      "from": "MODELS/sources/AI022-deepseek-hardware.md",
+      "target": "AI016-deepseek-v3.md",
+      "exists": true
+    },
+    {
+      "from": "MODELS/sources/AI022-deepseek-hardware.md",
+      "target": "../../CLOUD_ACCELERATORS/sources/AI039-nccl.md",
+      "exists": true
+    },
+    {
+      "from": "MODELS/sources/AI022-deepseek-hardware.md",
+      "target": "../../CLOUD_ACCELERATORS/sources/AI036-cdna4.md",
+      "exists": true
+    },
+    {
+      "from": "MODELS/sources/AI022-deepseek-hardware.md",
+      "target": "README.md",
+      "exists": true
+    },
+    {
+      "from": "MODELS/sources/AI022-deepseek-hardware.md",
+      "target": "../../sources.md",
+      "exists": true
+    },
+    {
+      "from": "MODELS/sources/AI059-illustrated-gpt2.md",
+      "target": "../README.md",
+      "exists": true
+    },
+    {
+      "from": "MODELS/sources/AI059-illustrated-gpt2.md",
+      "target": "../../original_file/blogs/AI059-illustrated-gpt2.reader.html",
+      "exists": true
+    },
+    {
+      "from": "MODELS/sources/AI059-illustrated-gpt2.md",
+      "target": "../../original_file/blogs/AI059-illustrated-gpt2.html",
+      "exists": true
+    },
+    {
+      "from": "MODELS/sources/AI059-illustrated-gpt2.md",
+      "target": "../../source-reading-audit.md",
+      "exists": true
+    },
+    {
+      "from": "MODELS/sources/AI059-illustrated-gpt2.md",
+      "target": "AI015-qwen3.md",
+      "exists": true
+    },
+    {
+      "from": "MODELS/sources/AI059-illustrated-gpt2.md",
+      "target": "AI018-llama3.md",
+      "exists": true
+    },
+    {
+      "from": "MODELS/sources/AI059-illustrated-gpt2.md",
+      "target": "README.md",
+      "exists": true
+    },
+    {
+      "from": "MODELS/sources/AI059-illustrated-gpt2.md",
+      "target": "../../sources.md",
+      "exists": true
+    },
+    {
+      "from": "MODELS/sources/AI062-raschka-comparison.md",
+      "target": "../README.md",
+      "exists": true
+    },
+    {
+      "from": "MODELS/sources/AI062-raschka-comparison.md",
+      "target": "../../original_file/blogs/AI062-raschka-comparison.reader.html",
+      "exists": true
+    },
+    {
+      "from": "MODELS/sources/AI062-raschka-comparison.md",
+      "target": "../../original_file/blogs/AI062-raschka-comparison.html",
+      "exists": true
+    },
+    {
+      "from": "MODELS/sources/AI062-raschka-comparison.md",
+      "target": "AI015-qwen3.md",
+      "exists": true
+    },
+    {
+      "from": "MODELS/sources/AI062-raschka-comparison.md",
+      "target": "AI016-deepseek-v3.md",
+      "exists": true
+    },
+    {
+      "from": "MODELS/sources/AI062-raschka-comparison.md",
+      "target": "AI018-llama3.md",
+      "exists": true
+    },
+    {
+      "from": "MODELS/sources/AI062-raschka-comparison.md",
+      "target": "README.md",
+      "exists": true
+    },
+    {
+      "from": "MODELS/sources/AI062-raschka-comparison.md",
+      "target": "../../sources.md",
+      "exists": true
+    },
+    {
+      "from": "MODELS/sources/AI065-qwen3-implementation.md",
+      "target": "../README.md",
+      "exists": true
+    },
+    {
+      "from": "MODELS/sources/AI065-qwen3-implementation.md",
+      "target": "../../original_file/code/AI065-qwen3-implementation/commit.json",
+      "exists": true
+    },
+    {
+      "from": "MODELS/sources/AI065-qwen3-implementation.md",
+      "target": "../../original_file/code/AI065-qwen3-implementation/src/transformers/models/qwen3/modeling_qwen3.py",
+      "exists": true
+    },
+    {
+      "from": "MODELS/sources/AI065-qwen3-implementation.md",
+      "target": "../../original_file/code/AI065-qwen3-implementation/src/transformers/models/qwen3/configuration_qwen3.py",
+      "exists": true
+    },
+    {
+      "from": "MODELS/sources/AI065-qwen3-implementation.md",
+      "target": "AI015-qwen3.md",
+      "exists": true
+    },
+    {
+      "from": "MODELS/sources/AI065-qwen3-implementation.md",
+      "target": "../../ALGORITHMS/sources/AI013-gqa.md",
+      "exists": true
+    },
+    {
+      "from": "MODELS/sources/AI065-qwen3-implementation.md",
+      "target": "README.md",
+      "exists": true
+    },
+    {
+      "from": "MODELS/sources/AI065-qwen3-implementation.md",
+      "target": "../../sources.md",
+      "exists": true
+    },
+    {
+      "from": "MODELS/sources/README.md",
+      "target": "AI015-qwen3.md",
+      "exists": true
+    },
+    {
+      "from": "MODELS/sources/README.md",
+      "target": "AI016-deepseek-v3.md",
+      "exists": true
+    },
+    {
+      "from": "MODELS/sources/README.md",
+      "target": "AI017-deepseek-r1.md",
+      "exists": true
+    },
+    {
+      "from": "MODELS/sources/README.md",
+      "target": "AI018-llama3.md",
+      "exists": true
+    },
+    {
+      "from": "MODELS/sources/README.md",
+      "target": "AI019-qwen25-vl.md",
+      "exists": true
+    },
+    {
+      "from": "MODELS/sources/README.md",
+      "target": "AI020-qwen38-next.md",
+      "exists": true
+    },
+    {
+      "from": "MODELS/sources/README.md",
+      "target": "AI021-gemma3.md",
+      "exists": true
+    },
+    {
+      "from": "MODELS/sources/README.md",
+      "target": "AI022-deepseek-hardware.md",
+      "exists": true
+    },
+    {
+      "from": "MODELS/sources/README.md",
+      "target": "AI059-illustrated-gpt2.md",
+      "exists": true
+    },
+    {
+      "from": "MODELS/sources/README.md",
+      "target": "AI062-raschka-comparison.md",
+      "exists": true
+    },
+    {
+      "from": "MODELS/sources/README.md",
+      "target": "AI065-qwen3-implementation.md",
+      "exists": true
+    },
+    {
+      "from": "MODELS/sources/README.md",
+      "target": "../README.md",
+      "exists": true
+    },
+    {
+      "from": "MODELS/sources/README.md",
+      "target": "../../sources.md",
+      "exists": true
+    },
+    {
+      "from": "original_file/README.md",
+      "target": "../sources.md",
+      "exists": true
+    },
+    {
+      "from": "original_file/README.md",
+      "target": "acquisition-20261002.json",
+      "exists": true
+    },
+    {
+      "from": "original_file/README.md",
+      "target": "../sources.md",
+      "exists": true
+    },
+    {
+      "from": "original_file/README.md",
+      "target": "../source-manifest.json",
+      "exists": true
+    },
+    {
+      "from": "original_file/README.md",
+      "target": "wechat/AI001-dId6qeAjZpzAkke2JjLdfg.url",
+      "exists": true
+    },
+    {
+      "from": "original_file/README.md",
+      "target": "wechat/AI001-article.html",
+      "exists": true
+    },
+    {
+      "from": "original_file/README.md",
+      "target": "blogs/AI001-wechat-prefill-decode.reader.html",
+      "exists": true
+    },
+    {
+      "from": "original_file/README.md",
+      "target": "../TRAINING_INFERENCE/sources/AI001-wechat-prefill-decode.md",
+      "exists": true
+    },
+    {
+      "from": "original_file/README.md",
+      "target": "wechat/AI002-qADtdc_tAdkX1dRKFG50DQ.url",
+      "exists": true
+    },
+    {
+      "from": "original_file/README.md",
+      "target": "wechat/AI002-article.html",
+      "exists": true
+    },
+    {
+      "from": "original_file/README.md",
+      "target": "blogs/AI002-wechat-kv-cache.reader.html",
+      "exists": true
+    },
+    {
+      "from": "original_file/README.md",
+      "target": "../TRAINING_INFERENCE/sources/AI002-wechat-kv-cache.md",
+      "exists": true
+    },
+    {
+      "from": "original_file/README.md",
+      "target": "../source-reading-audit.md",
+      "exists": true
+    },
+    {
+      "from": "project-context.md",
+      "target": "research-roadmap.md",
+      "exists": true
+    },
+    {
+      "from": "project-context.md",
+      "target": "sources.md",
+      "exists": true
+    },
+    {
+      "from": "project-context.md",
+      "target": "research-roadmap.md",
+      "exists": true
+    },
+    {
+      "from": "project-context.md",
+      "target": "research-roadmap.md#近期切入点",
+      "exists": true
+    },
+    {
+      "from": "project-context.md",
+      "target": "sources.md",
+      "exists": true
+    },
+    {
+      "from": "project-context.md",
+      "target": "source-reading-audit.md",
+      "exists": true
+    },
+    {
+      "from": "README.md",
+      "target": "project-context.md",
+      "exists": true
+    },
+    {
+      "from": "README.md",
+      "target": "research-roadmap.md",
+      "exists": true
+    },
+    {
+      "from": "README.md",
+      "target": "sources.md",
+      "exists": true
+    },
+    {
+      "from": "README.md",
+      "target": "materials-reading-guide.md",
+      "exists": true
+    },
+    {
+      "from": "README.md",
+      "target": "original_file/README.md",
+      "exists": true
+    },
+    {
+      "from": "README.md",
+      "target": "source-reading-audit.md",
+      "exists": true
+    },
+    {
+      "from": "README.md",
+      "target": "project-context.md",
+      "exists": true
+    },
+    {
+      "from": "README.md",
+      "target": "research-roadmap.md",
+      "exists": true
+    },
+    {
+      "from": "README.md",
+      "target": "ALGORITHMS/README.md",
+      "exists": true
+    },
+    {
+      "from": "README.md",
+      "target": "MODELS/README.md",
+      "exists": true
+    },
+    {
+      "from": "README.md",
+      "target": "TRAINING_INFERENCE/README.md",
+      "exists": true
+    },
+    {
+      "from": "README.md",
+      "target": "CLOUD_ACCELERATORS/README.md",
+      "exists": true
+    },
+    {
+      "from": "README.md",
+      "target": "EDGE_AI/README.md",
+      "exists": true
+    },
+    {
+      "from": "README.md",
+      "target": "APPLICATIONS/README.md",
+      "exists": true
+    },
+    {
+      "from": "README.md",
+      "target": "sources.md",
+      "exists": true
+    },
+    {
+      "from": "README.md",
+      "target": "project-context.md#目录组织",
+      "exists": true
+    },
+    {
+      "from": "README.md",
+      "target": "TRAINING_INFERENCE/sources/README.md",
+      "exists": true
+    },
+    {
+      "from": "research-roadmap.md",
+      "target": "project-context.md",
+      "exists": true
+    },
+    {
+      "from": "research-roadmap.md",
+      "target": "materials-reading-guide.md",
+      "exists": true
+    },
+    {
+      "from": "research-roadmap.md",
+      "target": "project-context.md#研究对象的选择",
+      "exists": true
+    },
+    {
+      "from": "research-roadmap.md",
+      "target": "MODELS/sources/AI022-deepseek-hardware.md",
+      "exists": true
+    },
+    {
+      "from": "research-roadmap.md",
+      "target": "TRAINING_INFERENCE/sources/AI032-vllm-architecture.md",
+      "exists": true
+    },
+    {
+      "from": "research-roadmap.md",
+      "target": "CLOUD_ACCELERATORS/sources/AI036-cdna4.md",
+      "exists": true
+    },
+    {
+      "from": "research-roadmap.md",
+      "target": "EDGE_AI/sources/AI041-qualcomm-npu.md",
+      "exists": true
+    },
+    {
+      "from": "research-roadmap.md",
+      "target": "project-context.md#资料管理与来源约定",
+      "exists": true
+    },
+    {
+      "from": "research-roadmap.md",
+      "target": "sources.md",
+      "exists": true
+    },
+    {
+      "from": "research-roadmap.md",
+      "target": "README.md",
+      "exists": true
+    },
+    {
+      "from": "research-roadmap.md",
+      "target": "source-reading-audit.md",
+      "exists": true
+    },
+    {
+      "from": "source-reading-audit.md",
+      "target": "TRAINING_INFERENCE/sources/AI001-wechat-prefill-decode.md",
+      "exists": true
+    },
+    {
+      "from": "source-reading-audit.md",
+      "target": "TRAINING_INFERENCE/sources/AI002-wechat-kv-cache.md",
+      "exists": true
+    },
+    {
+      "from": "source-reading-audit.md",
+      "target": "ALGORITHMS/sources/AI058-illustrated-transformer.md",
+      "exists": true
+    },
+    {
+      "from": "source-reading-audit.md",
+      "target": "MODELS/sources/AI059-illustrated-gpt2.md",
+      "exists": true
+    },
+    {
+      "from": "source-reading-audit.md",
+      "target": "APPLICATIONS/sources/AI060-lilian-agents.md",
+      "exists": true
+    },
+    {
+      "from": "source-reading-audit.md",
+      "target": "ALGORITHMS/sources/AI061-lilian-diffusion.md",
+      "exists": true
+    },
+    {
+      "from": "source-reading-audit.md",
+      "target": "MODELS/sources/AI062-raschka-comparison.md",
+      "exists": true
+    },
+    {
+      "from": "source-reading-audit.md",
+      "target": "TRAINING_INFERENCE/sources/AI063-go-brrr.md",
+      "exists": true
+    },
+    {
+      "from": "source-reading-audit.md",
+      "target": "TRAINING_INFERENCE/sources/AI002-wechat-kv-cache.md",
+      "exists": true
+    },
+    {
+      "from": "source-reading-audit.md",
+      "target": "TRAINING_INFERENCE/sources/AI001-wechat-prefill-decode.md",
+      "exists": true
+    },
+    {
+      "from": "source-reading-audit.md",
+      "target": "EDGE_AI/sources/AI042-hexagon-2026.md",
+      "exists": true
+    },
+    {
+      "from": "source-reading-audit.md",
+      "target": "ALGORITHMS/sources/AI064-su-rope.md",
+      "exists": true
+    },
+    {
+      "from": "source-reading-audit.md",
+      "target": "CLOUD_ACCELERATORS/sources/AI035-blackwell.md",
+      "exists": true
+    },
+    {
+      "from": "source-reading-audit.md",
+      "target": "source-manifest.json",
+      "exists": true
+    },
+    {
+      "from": "source-reading-audit.md",
+      "target": "original_file/acquisition-20261002.json",
+      "exists": true
+    },
+    {
+      "from": "source-reading-audit.md",
+      "target": "material-validation.json",
+      "exists": true
+    },
+    {
+      "from": "source-reading-audit.md",
+      "target": "materials-reading-guide.md",
+      "exists": true
+    },
+    {
+      "from": "sources.md",
+      "target": "materials-reading-guide.md",
+      "exists": true
+    },
+    {
+      "from": "sources.md",
+      "target": "original_file/README.md",
+      "exists": true
+    },
+    {
+      "from": "sources.md",
+      "target": "source-reading-audit.md",
+      "exists": true
+    },
+    {
+      "from": "sources.md",
+      "target": "source-manifest.json",
+      "exists": true
+    },
+    {
+      "from": "sources.md",
+      "target": "ALGORITHMS/README.md",
+      "exists": true
+    },
+    {
+      "from": "sources.md",
+      "target": "ALGORITHMS/sources/README.md",
+      "exists": true
+    },
+    {
+      "from": "sources.md",
+      "target": "MODELS/README.md",
+      "exists": true
+    },
+    {
+      "from": "sources.md",
+      "target": "MODELS/sources/README.md",
+      "exists": true
+    },
+    {
+      "from": "sources.md",
+      "target": "TRAINING_INFERENCE/README.md",
+      "exists": true
+    },
+    {
+      "from": "sources.md",
+      "target": "TRAINING_INFERENCE/sources/README.md",
+      "exists": true
+    },
+    {
+      "from": "sources.md",
+      "target": "CLOUD_ACCELERATORS/README.md",
+      "exists": true
+    },
+    {
+      "from": "sources.md",
+      "target": "CLOUD_ACCELERATORS/sources/README.md",
+      "exists": true
+    },
+    {
+      "from": "sources.md",
+      "target": "EDGE_AI/README.md",
+      "exists": true
+    },
+    {
+      "from": "sources.md",
+      "target": "EDGE_AI/sources/README.md",
+      "exists": true
+    },
+    {
+      "from": "sources.md",
+      "target": "APPLICATIONS/README.md",
+      "exists": true
+    },
+    {
+      "from": "sources.md",
+      "target": "APPLICATIONS/sources/README.md",
+      "exists": true
+    },
+    {
+      "from": "sources.md",
+      "target": "original_file/wechat/AI001-dId6qeAjZpzAkke2JjLdfg.url",
+      "exists": true
+    },
+    {
+      "from": "sources.md",
+      "target": "original_file/wechat/AI001-article.html",
+      "exists": true
+    },
+    {
+      "from": "sources.md",
+      "target": "original_file/blogs/AI001-wechat-prefill-decode.reader.html",
+      "exists": true
+    },
+    {
+      "from": "sources.md",
+      "target": "TRAINING_INFERENCE/sources/AI001-wechat-prefill-decode.md",
+      "exists": true
+    },
+    {
+      "from": "sources.md",
+      "target": "original_file/wechat/AI002-qADtdc_tAdkX1dRKFG50DQ.url",
+      "exists": true
+    },
+    {
+      "from": "sources.md",
+      "target": "original_file/wechat/AI002-article.html",
+      "exists": true
+    },
+    {
+      "from": "sources.md",
+      "target": "original_file/blogs/AI002-wechat-kv-cache.reader.html",
+      "exists": true
+    },
+    {
+      "from": "sources.md",
+      "target": "TRAINING_INFERENCE/sources/AI002-wechat-kv-cache.md",
+      "exists": true
+    },
+    {
+      "from": "sources.md",
+      "target": "ALGORITHMS/sources/AI058-illustrated-transformer.md",
+      "exists": true
+    },
+    {
+      "from": "sources.md",
+      "target": "MODELS/sources/AI059-illustrated-gpt2.md",
+      "exists": true
+    },
+    {
+      "from": "sources.md",
+      "target": "APPLICATIONS/sources/AI060-lilian-agents.md",
+      "exists": true
+    },
+    {
+      "from": "sources.md",
+      "target": "ALGORITHMS/sources/AI061-lilian-diffusion.md",
+      "exists": true
+    },
+    {
+      "from": "sources.md",
+      "target": "MODELS/sources/AI062-raschka-comparison.md",
+      "exists": true
+    },
+    {
+      "from": "sources.md",
+      "target": "TRAINING_INFERENCE/sources/AI063-go-brrr.md",
+      "exists": true
+    },
+    {
+      "from": "sources.md",
+      "target": "ALGORITHMS/sources/AI064-su-rope.md",
+      "exists": true
+    },
+    {
+      "from": "sources.md",
+      "target": "source-reading-audit.md",
+      "exists": true
+    },
+    {
+      "from": "sources.md",
+      "target": "EDGE_AI/sources/AI042-hexagon-2026.md",
+      "exists": true
+    },
+    {
+      "from": "sources.md",
+      "target": "EDGE_AI/sources/AI041-qualcomm-npu.md",
+      "exists": true
+    },
+    {
+      "from": "sources.md",
+      "target": "ALGORITHMS/sources/AI064-su-rope.md",
+      "exists": true
+    },
+    {
+      "from": "sources.md",
+      "target": "ALGORITHMS/sources/AI014-roformer.md",
+      "exists": true
+    },
+    {
+      "from": "sources.md",
+      "target": "CLOUD_ACCELERATORS/sources/AI035-blackwell.md",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/README.md",
+      "target": "sources/README.md",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/README.md",
+      "target": "../sources.md",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/README.md",
+      "target": "../materials-reading-guide.md",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/README.md",
+      "target": "sources/AI001-wechat-prefill-decode.md",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/README.md",
+      "target": "sources/AI002-wechat-kv-cache.md",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/README.md",
+      "target": "../MODELS/sources/AI065-qwen3-implementation.md",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/README.md",
+      "target": "sources/AI024-pagedattention.md",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/README.md",
+      "target": "sources/AI032-vllm-architecture.md",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/README.md",
+      "target": "sources/AI063-go-brrr.md",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/README.md",
+      "target": "sources/AI023-flashattention.md",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/README.md",
+      "target": "sources/AI029-speculative-decoding.md",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/README.md",
+      "target": "sources/AI030-sglang.md",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/README.md",
+      "target": "sources/AI034-tensorrt-llm.md",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/README.md",
+      "target": "sources/AI031-mlir.md",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/README.md",
+      "target": "../ALGORITHMS/sources/AI005-adam.md",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/README.md",
+      "target": "sources/AI025-zero.md",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/README.md",
+      "target": "sources/AI026-megatron-lm.md",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/README.md",
+      "target": "../CLOUD_ACCELERATORS/sources/AI039-nccl.md",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/README.md",
+      "target": "sources/AI033-rlhf.md",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/README.md",
+      "target": "sources/AI027-dpo.md",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/README.md",
+      "target": "sources/AI028-deepseek-math.md",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/README.md",
+      "target": "../MODELS/README.md",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/README.md",
+      "target": "../CLOUD_ACCELERATORS/README.md",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/README.md",
+      "target": "../EDGE_AI/README.md",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/sources/AI001-wechat-prefill-decode.md",
+      "target": "../README.md",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/sources/AI001-wechat-prefill-decode.md",
+      "target": "../../original_file/blogs/AI001-wechat-prefill-decode.reader.html",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/sources/AI001-wechat-prefill-decode.md",
+      "target": "../../original_file/wechat/AI001-article.html",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/sources/AI001-wechat-prefill-decode.md",
+      "target": "../../ALGORITHMS/sources/AI013-gqa.md",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/sources/AI001-wechat-prefill-decode.md",
+      "target": "AI024-pagedattention.md",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/sources/AI001-wechat-prefill-decode.md",
+      "target": "../../MODELS/sources/AI065-qwen3-implementation.md",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/sources/AI001-wechat-prefill-decode.md",
+      "target": "AI063-go-brrr.md",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/sources/AI001-wechat-prefill-decode.md",
+      "target": "README.md",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/sources/AI001-wechat-prefill-decode.md",
+      "target": "../../sources.md",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/sources/AI002-wechat-kv-cache.md",
+      "target": "../README.md",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/sources/AI002-wechat-kv-cache.md",
+      "target": "../../original_file/blogs/AI002-wechat-kv-cache.reader.html",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/sources/AI002-wechat-kv-cache.md",
+      "target": "../../original_file/wechat/AI002-article.html",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/sources/AI002-wechat-kv-cache.md",
+      "target": "../../ALGORITHMS/sources/AI013-gqa.md",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/sources/AI002-wechat-kv-cache.md",
+      "target": "AI024-pagedattention.md",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/sources/AI002-wechat-kv-cache.md",
+      "target": "../../MODELS/sources/AI065-qwen3-implementation.md",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/sources/AI002-wechat-kv-cache.md",
+      "target": "AI063-go-brrr.md",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/sources/AI002-wechat-kv-cache.md",
+      "target": "README.md",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/sources/AI002-wechat-kv-cache.md",
+      "target": "../../sources.md",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/sources/AI023-flashattention.md",
+      "target": "../README.md",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/sources/AI023-flashattention.md",
+      "target": "../../original_file/papers/AI023-flashattention.metadata.html",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/sources/AI023-flashattention.md",
+      "target": "../../original_file/papers/AI023-flashattention.pdf",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/sources/AI023-flashattention.md",
+      "target": "../../ALGORITHMS/sources/AI003-attention-is-all-you-need.md",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/sources/AI023-flashattention.md",
+      "target": "README.md",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/sources/AI023-flashattention.md",
+      "target": "../../sources.md",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/sources/AI024-pagedattention.md",
+      "target": "../README.md",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/sources/AI024-pagedattention.md",
+      "target": "../../original_file/papers/AI024-pagedattention.metadata.html",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/sources/AI024-pagedattention.md",
+      "target": "../../original_file/papers/AI024-pagedattention.pdf",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/sources/AI024-pagedattention.md",
+      "target": "AI032-vllm-architecture.md",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/sources/AI024-pagedattention.md",
+      "target": "../../ALGORITHMS/sources/AI013-gqa.md",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/sources/AI024-pagedattention.md",
+      "target": "README.md",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/sources/AI024-pagedattention.md",
+      "target": "../../sources.md",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/sources/AI025-zero.md",
+      "target": "../README.md",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/sources/AI025-zero.md",
+      "target": "../../original_file/papers/AI025-zero.metadata.html",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/sources/AI025-zero.md",
+      "target": "../../original_file/papers/AI025-zero.pdf",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/sources/AI025-zero.md",
+      "target": "../../ALGORITHMS/sources/AI005-adam.md",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/sources/AI025-zero.md",
+      "target": "AI026-megatron-lm.md",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/sources/AI025-zero.md",
+      "target": "README.md",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/sources/AI025-zero.md",
+      "target": "../../sources.md",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/sources/AI026-megatron-lm.md",
+      "target": "../README.md",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/sources/AI026-megatron-lm.md",
+      "target": "../../original_file/papers/AI026-megatron-lm.metadata.html",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/sources/AI026-megatron-lm.md",
+      "target": "../../original_file/papers/AI026-megatron-lm.pdf",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/sources/AI026-megatron-lm.md",
+      "target": "AI025-zero.md",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/sources/AI026-megatron-lm.md",
+      "target": "../../CLOUD_ACCELERATORS/sources/AI039-nccl.md",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/sources/AI026-megatron-lm.md",
+      "target": "README.md",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/sources/AI026-megatron-lm.md",
+      "target": "../../sources.md",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/sources/AI027-dpo.md",
+      "target": "../README.md",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/sources/AI027-dpo.md",
+      "target": "../../original_file/papers/AI027-dpo.metadata.html",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/sources/AI027-dpo.md",
+      "target": "../../original_file/papers/AI027-dpo.pdf",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/sources/AI027-dpo.md",
+      "target": "AI033-rlhf.md",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/sources/AI027-dpo.md",
+      "target": "README.md",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/sources/AI027-dpo.md",
+      "target": "../../sources.md",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/sources/AI028-deepseek-math.md",
+      "target": "../README.md",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/sources/AI028-deepseek-math.md",
+      "target": "../../original_file/papers/AI028-deepseek-math.metadata.html",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/sources/AI028-deepseek-math.md",
+      "target": "../../original_file/papers/AI028-deepseek-math.pdf",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/sources/AI028-deepseek-math.md",
+      "target": "../../MODELS/sources/AI017-deepseek-r1.md",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/sources/AI028-deepseek-math.md",
+      "target": "AI027-dpo.md",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/sources/AI028-deepseek-math.md",
+      "target": "README.md",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/sources/AI028-deepseek-math.md",
+      "target": "../../sources.md",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/sources/AI029-speculative-decoding.md",
+      "target": "../README.md",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/sources/AI029-speculative-decoding.md",
+      "target": "../../original_file/papers/AI029-speculative-decoding.metadata.html",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/sources/AI029-speculative-decoding.md",
+      "target": "../../original_file/papers/AI029-speculative-decoding.pdf",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/sources/AI029-speculative-decoding.md",
+      "target": "README.md",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/sources/AI029-speculative-decoding.md",
+      "target": "../../sources.md",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/sources/AI030-sglang.md",
+      "target": "../README.md",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/sources/AI030-sglang.md",
+      "target": "../../original_file/papers/AI030-sglang.metadata.html",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/sources/AI030-sglang.md",
+      "target": "../../original_file/papers/AI030-sglang.pdf",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/sources/AI030-sglang.md",
+      "target": "AI024-pagedattention.md",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/sources/AI030-sglang.md",
+      "target": "../../APPLICATIONS/sources/AI050-react.md",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/sources/AI030-sglang.md",
+      "target": "README.md",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/sources/AI030-sglang.md",
+      "target": "../../sources.md",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/sources/AI031-mlir.md",
+      "target": "../README.md",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/sources/AI031-mlir.md",
+      "target": "../../original_file/papers/AI031-mlir.metadata.html",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/sources/AI031-mlir.md",
+      "target": "../../original_file/papers/AI031-mlir.pdf",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/sources/AI031-mlir.md",
+      "target": "../../EDGE_AI/sources/AI046-executorch.md",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/sources/AI031-mlir.md",
+      "target": "../../EDGE_AI/sources/AI045-onnx-qnn.md",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/sources/AI031-mlir.md",
+      "target": "README.md",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/sources/AI031-mlir.md",
+      "target": "../../sources.md",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/sources/AI032-vllm-architecture.md",
+      "target": "../README.md",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/sources/AI032-vllm-architecture.md",
+      "target": "../../original_file/official/AI032-vllm-architecture.html",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/sources/AI032-vllm-architecture.md",
+      "target": "AI024-pagedattention.md",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/sources/AI032-vllm-architecture.md",
+      "target": "AI030-sglang.md",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/sources/AI032-vllm-architecture.md",
+      "target": "README.md",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/sources/AI032-vllm-architecture.md",
+      "target": "../../sources.md",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/sources/AI033-rlhf.md",
+      "target": "../README.md",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/sources/AI033-rlhf.md",
+      "target": "../../original_file/papers/AI033-rlhf.metadata.html",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/sources/AI033-rlhf.md",
+      "target": "../../original_file/papers/AI033-rlhf.pdf",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/sources/AI033-rlhf.md",
+      "target": "AI027-dpo.md",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/sources/AI033-rlhf.md",
+      "target": "../../MODELS/sources/AI017-deepseek-r1.md",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/sources/AI033-rlhf.md",
+      "target": "README.md",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/sources/AI033-rlhf.md",
+      "target": "../../sources.md",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/sources/AI034-tensorrt-llm.md",
+      "target": "../README.md",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/sources/AI034-tensorrt-llm.md",
+      "target": "../../original_file/official/AI034-tensorrt-llm.html",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/sources/AI034-tensorrt-llm.md",
+      "target": "AI032-vllm-architecture.md",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/sources/AI034-tensorrt-llm.md",
+      "target": "README.md",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/sources/AI034-tensorrt-llm.md",
+      "target": "../../sources.md",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/sources/AI063-go-brrr.md",
+      "target": "../README.md",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/sources/AI063-go-brrr.md",
+      "target": "../../original_file/blogs/AI063-go-brrr.reader.html",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/sources/AI063-go-brrr.md",
+      "target": "../../original_file/blogs/AI063-go-brrr.html",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/sources/AI063-go-brrr.md",
+      "target": "AI023-flashattention.md",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/sources/AI063-go-brrr.md",
+      "target": "../../CLOUD_ACCELERATORS/sources/AI035-blackwell.md",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/sources/AI063-go-brrr.md",
+      "target": "README.md",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/sources/AI063-go-brrr.md",
+      "target": "../../sources.md",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/sources/README.md",
+      "target": "AI001-wechat-prefill-decode.md",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/sources/README.md",
+      "target": "AI002-wechat-kv-cache.md",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/sources/README.md",
+      "target": "AI023-flashattention.md",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/sources/README.md",
+      "target": "AI024-pagedattention.md",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/sources/README.md",
+      "target": "AI025-zero.md",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/sources/README.md",
+      "target": "AI026-megatron-lm.md",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/sources/README.md",
+      "target": "AI027-dpo.md",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/sources/README.md",
+      "target": "AI028-deepseek-math.md",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/sources/README.md",
+      "target": "AI029-speculative-decoding.md",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/sources/README.md",
+      "target": "AI030-sglang.md",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/sources/README.md",
+      "target": "AI031-mlir.md",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/sources/README.md",
+      "target": "AI032-vllm-architecture.md",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/sources/README.md",
+      "target": "AI033-rlhf.md",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/sources/README.md",
+      "target": "AI034-tensorrt-llm.md",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/sources/README.md",
+      "target": "AI063-go-brrr.md",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/sources/README.md",
+      "target": "../README.md",
+      "exists": true
+    },
+    {
+      "from": "TRAINING_INFERENCE/sources/README.md",
+      "target": "../../sources.md",
+      "exists": true
+    }
+  ],
+  "errors": [],
+  "summary": {
+    "registered_sources": 65,
+    "checked_files": 352,
+    "parsed_images": 229,
+    "checked_documents": 84,
+    "checked_local_links": 775,
+    "checked_article_tables": 5,
+    "pdf_first_pages_visually_reviewed": 46,
+    "errors": 0
+  },
+  "passed": true
+}

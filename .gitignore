@@ -1,0 +1,17 @@
+# Downloaded originals stay local; publish only the archive guide.
+/original_file/*
+!/original_file/README.md
+
+# Temporary extraction, previews, downloads, and Python caches.
+/tmp/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local credentials and operating-system state.
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
